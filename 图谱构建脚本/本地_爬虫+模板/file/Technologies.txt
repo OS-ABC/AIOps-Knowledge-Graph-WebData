@@ -1,0 +1,212 @@
+Continuous deployment
+Incremental data warehousing
+Evolutionary architecture
+Evolutionary database
+Web as platform
+Emergent design
+Lean software development
+Build pipelines
+User centered design
+Evolutionary DB
+Automation of technical tests
+Service choreography
+Visualization and metrics
+Polyglot programming
+OAuth
+Scrum certifi cation
+Database based integration
+Scrum certification
+DevOps
+Capability modeling
+Coding architects
+Platform roadmaps
+Real-time business intelligence
+Smart Systems
+Progressive Enhancement
+Automate database deployment
+Concurrency abstractions and patterns
+Capability modelling
+Acceptance test of journeys
+Categorization & prioritization of technical debt
+Visualisation and metrics
+Progressive enhancement
+Simple performance trending
+Continuous delivery
+Thoughtful caching
+Iterative data warehousing
+Build your own radar
+Event API’s
+Event driven business intelligence
+Smart systems
+Event sourcing
+Decision driven BI
+Procedure oriented integration
+Feature branching
+Manual infrastructure management
+Agile analytics
+Embedding a servlet container
+Event APIs
+Infrastructure automation of development workstations
+Out-of-container functional testing
+Performance testing as a first-class citizen
+Single command deploy
+Windows infrastructure automation
+Experience Design (XD)
+Mechanical sympathy
+Micro-services
+Production immune system
+Polyglot Persistence
+Logs as data
+Responsive web design
+Mobile first
+Declarative provisioning
+Remote usability testing
+Semantic monitoring
+Edge Side Includes for page composition
+Configuration in DNS
+Deployment and scripting test tools
+Analyzing test runs
+Blue-green deployment
+Co-location by telepresence
+Continuous delivery for mobile devices
+Database migrations for NoSQL
+HTML5 storage instead of cookies
+Perimeterless enterprise
+Capturing client-side JavaScript errors
+Collaborative analytics and data science
+Development environments in the cloud
+Focus on mean time to recovery
+Machine image as a build artifact
+Minimizing application configuration
+Capture domain events explicitily
+Client and server rendering with same code
+Instrument all the things
+Masterless Chef/Puppet
+Provisioning testing
+Structured Logging
+Bridging physical and digital worlds with simple hardware
+Datensparsamkeit
+Tangible interaction
+Capture domain events explicitly
+Event Sourcing
+Humane registry
+Inverse Conway Maneuver
+Living CSS Style Guides
+Real user monitoring
+REST without PUT
+Structured logging
+Tailored Service Template
+Machine image pipelines
+Pace-layered Application Strategy
+Property-based unit testing
+Canary builds
+Front end instrumentation
+Hispster batch
+Local storage sync
+NoPSD
+Partition infrastructure along team bounds
+Static site generators
+Append only data store
+Blockchain beyond bitcoin
+Enterprise Data Lake
+Pace layered Application Strategy
+Offline first web applications
+Products over projects
+Threat Modelling
+Append-only data store
+Flux
+Git based CMS/Git for non-code
+Phoenix Environments
+Reactive Architectures
+BEM
+Decoupling deployment from release
+BFF - Backend for frontends
+Docker for builds
+Event Storming
+Idempotency filter
+iFrames for sandboxing
+NPM for all the things
+QA in production
+Accumulate-only data
+Bug bounties
+Data Lake
+Hosted IDE’s
+Monitoring of invariants
+Gitflow
+High performance envy/web scale envy
+Content Security Policies
+Hosting PII data in the EU
+OWASP ASVS
+Serverless architecture
+Unikernels
+VR beyond gaming
+A single CI instance for all teams
+Big Data envy
+Pipelines as code
+Threat Modeling
+APIs as a product
+Lightweight Architecture Decision Records
+Reactive architectures
+Client-directed query
+Container security scanning
+Differential privacy
+Micro frontends
+Anemic REST
+Applying product management to internal platforms
+Architectural fitness function
+Autonomous bubble pattern
+Chaos Engineering
+Decoupling secret management from source code
+DesignOps
+Legacy in a box
+Pipelines for infrastructure as code
+TDD’ing containers
+Algorithmic IT operations
+Ethereum for decentralized applications
+Event streaming as the source of truth
+Platform engineering product teams
+Polycloud
+Service mesh
+Sidecars for endpoint security
+The three Rs of security
+Domain-scoped events
+Hosted identity management as a service
+BeyondCorp
+Embedded mobile mocks
+GraphQL for server side resource aggregation
+Infrastructure configuration scanner
+Jupyter for automated testing
+Log level per request
+Security Chaos Engineering
+Continuous delivery for machine learning (CD4ML) models
+Crypto shredding
+Ethical OS
+Smart contracts
+Transfer learning for NLP
+Wardley mapping
+Automated machine learning (AutoML)
+Binary attestation
+Continuous delivery for machine learning(CD4ML)
+Data discoverability
+Dependency drift fitness function
+Design systems
+Experiment tracking tools for machine learning
+Explainability as a first-class model selection criterion
+Security policy as code
+Zhong Tai
+BERT
+Data mesh
+Ethical bias testing
+Federated learning
+JAMstack
+Privacy-preserving record linkage (PPRL) using Bloom filter
+Semi-supervised learning loops
+Continuous delivery for machine learning (CD4ML)
+GraphQL for server-side resource aggregation
+Micro frontends for mobile
+Use “remote native” processes and approaches
+Zero trust architecture (ZTA)
+Decentralized identity
+Declarative data pipeline definition
+DeepWalk
+Managing stateful systems via container

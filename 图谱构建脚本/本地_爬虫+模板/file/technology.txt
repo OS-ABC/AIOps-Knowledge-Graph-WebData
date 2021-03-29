@@ -1,0 +1,56 @@
+BASIC
+Pascal
+D
+ECMAScript
+Perl
+IOS
+AppleScript
+Adobe Air
+windows phone
+VB
+Visual Basic .NET
+Visual C#
+ASP.NET
+J#
+Java VM
+Ceylon
+Jython
+Kawa
+Lua
+JSP
+ASP
+Shell
+sh
+csh
+ksh
+sed
+awk
+bash
+Tcl
+Tk
+VBScript
+Dart
+JScript
+ActionScript
+Ada
+Forth
+AAuto
+ALGOL
+Intel
+AT&T
+Curl
+SGML
+XML
+XSLT
+SSML
+XHTML
+DHTML
+XML Schema
+LINQ
+T SQL
+XQuery
+PLSQL
+Visual FoxPro
+XSL
+AutoCAD
+Mathematica

@@ -1,0 +1,399 @@
+CRITICAL:root:java:::{'java': 18, 'javac': 9, 'cmd': 2, 'path': 1, 'linux': 2}
+CRITICAL:root:java:::{}
+CRITICAL:root:java:::{}
+CRITICAL:root:分界线
+CRITICAL:root:css:::{'important': 1, 'webpack': 1}
+CRITICAL:root:css:::{}
+CRITICAL:root:css:::{}
+CRITICAL:root:分界线
+CRITICAL:root:html:::{}
+CRITICAL:root:html:::{}
+CRITICAL:root:html:::{}
+CRITICAL:root:分界线
+CRITICAL:root:html5:::{}
+CRITICAL:root:html5:::{}
+CRITICAL:root:html5:::{}
+CRITICAL:root:分界线
+CRITICAL:root:css3:::{}
+CRITICAL:root:css3:::{}
+CRITICAL:root:css3:::{}
+CRITICAL:root:分界线
+CRITICAL:root:js:::{'jscript': 1}
+CRITICAL:root:js:::{}
+CRITICAL:root:js:::{}
+CRITICAL:root:分界线
+CRITICAL:root:jscript:::{'jscript': 1}
+CRITICAL:root:jscript:::{}
+CRITICAL:root:jscript:::{}
+CRITICAL:root:分界线
+CRITICAL:root:ie:::{}
+CRITICAL:root:ie:::{}
+CRITICAL:root:ie:::{}
+CRITICAL:root:分界线
+CRITICAL:root:asp:::{}
+CRITICAL:root:asp:::{'web': 1}
+CRITICAL:root:asp:::{}
+CRITICAL:root:分界线
+CRITICAL:root:android:::{'make': 4}
+CRITICAL:root:android:::{}
+CRITICAL:root:android:::{}
+CRITICAL:root:分界线
+CRITICAL:root:firefox:::{}
+CRITICAL:root:firefox:::{}
+CRITICAL:root:firefox:::{}
+CRITICAL:root:分界线
+CRITICAL:root:iphone:::{'ssh': 1, 'top': 1, 'scp': 1, 'ps': 1}
+CRITICAL:root:iphone:::{}
+CRITICAL:root:iphone:::{}
+CRITICAL:root:分界线
+CRITICAL:root:chrome:::{'chrome': 1}
+CRITICAL:root:chrome:::{'google': 2, 'chrome': 1}
+CRITICAL:root:chrome:::{}
+CRITICAL:root:分界线
+CRITICAL:root:ie8:::{}
+CRITICAL:root:ie8:::{}
+CRITICAL:root:ie8:::{}
+CRITICAL:root:分界线
+CRITICAL:root:c#:::{}
+CRITICAL:root:c#:::{}
+CRITICAL:root:c#:::{}
+CRITICAL:root:分界线
+CRITICAL:root:oauth:::{}
+CRITICAL:root:oauth:::{'oauth': 15, 'openid': 4, 'iam': 1, 'sns': 1, 'api': 1, 'https': 1}
+CRITICAL:root:oauth:::{'/authorize': 1, '/accesstoken': 1, '/userinfo': 1}
+CRITICAL:root:分界线
+CRITICAL:root:squid:::{'squid': 13, 'rotate': 1, 'v': 1, 'purge': 1, 'auth': 3, 'iptables': 2, 'curl': 1, 'acl': 1, 'ps': 1, 'mv': 2, 'graph': 1, 'perge': 1}
+CRITICAL:root:squid:::{'squid': 128, 'http': 6, 'web': 9, 'apache': 2, 'cdn': 1, 'windows': 1, 'proxy': 1, 'httpd': 2}
+CRITICAL:root:squid:::{'/usr/sbin/squid': 5, '/etc/squid': 8, '/etc/squid/squid.conf': 8, '/var/log/squid/access.log': 5, '/etc': 4, '/usr/local/squid/cache': 2, '/web/squid ': 3, '/etct': 2, '//www.linuxprobe.com/': 2, '/etc/squid.conf': 3, '/etc/squid.conf.documented': 1, '//': 4, '/usr/local/squid/sbin/squid ': 6, '/usr/local/squid/var/logs/cache.log': 1, '/etc/squid/squid.conf http': 1, '/var/spool/squid ': 1, '//res.domain.com/comm.js': 2, '/etc/init.d/squidstartsquid': 1, '/etc/squid/squid.conf ': 2, '/etc/httpd/conf.d/squid.conf': 1, '//www.squid': 1, '/usr/local/squid ': 1, '/usr/local/squid/etc ': 1, '/usr/local/squid/bin ': 1, '/usr/local/squid/sbin ': 1, '/usr/local/squid/share/man ': 1, '/usr/local/squid/etc': 1, '/usr/local/sarg/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:neo4j:::{'cql': 1, 'unwind': 1, 'remove': 2, 'cmd': 1}
+CRITICAL:root:neo4j:::{'ownthink': 1}
+CRITICAL:root:neo4j:::{'/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:mongodb:::{'mongod': 1, 'db': 1, 'mongo': 4, 'dos': 21, 'top': 1, 'closealldatabases': 1, 'pmap': 1, 'mysqldump': 1, 'cd': 1, 'mongodb': 4, 'sc': 1, 'mongostat': 2, 'tar': 1, 'get': 1, 'shell': 1}
+CRITICAL:root:mongodb:::{'mongodb': 79, 'windows': 9, 'mongdb': 1, 'monodb': 1, 'mongod': 2}
+CRITICAL:root:mongodb:::{'/var/log/mongodb/mongodb.log': 1, '/etc/mongod.conf': 1, '/yourmongodbpath/mongod.conf ': 1, '/etc/yum.repos.d/mongodb': 1, '//repo.mongodb.org/yum/redhat/': 1, '//www.mongodb.org/static/pgp/server': 1, '/usr/local/mongodb/data/db/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:nosql:::{}
+CRITICAL:root:nosql:::{'paas': 2}
+CRITICAL:root:nosql:::{}
+CRITICAL:root:分界线
+CRITICAL:root:github:::{'git': 5}
+CRITICAL:root:github:::{'github': 1, 'pages': 1, 'gitlab': 1}
+CRITICAL:root:github:::{}
+CRITICAL:root:分界线
+CRITICAL:root:esb:::{}
+CRITICAL:root:esb:::{'web': 23, 'esb': 62, 'registry': 1, 'zookeeper': 15, 'restful': 3, 'client': 2, 'nextservice': 1, 'rest': 1, 'oracle': 1}
+CRITICAL:root:esb:::{'/': 4}
+CRITICAL:root:分界线
+CRITICAL:root:ruby:::{'load': 2, 'ruby': 4, 'gem': 2, 'install': 2, 'make': 1}
+CRITICAL:root:ruby:::{}
+CRITICAL:root:ruby:::{}
+CRITICAL:root:分界线
+CRITICAL:root:dsls:::{}
+CRITICAL:root:dsls:::{}
+CRITICAL:root:dsls:::{}
+CRITICAL:root:分界线
+CRITICAL:root:groovy:::{'groovy': 4, 'dot': 1, 'groovyconsole': 1, 'java': 1, 'shell': 1}
+CRITICAL:root:groovy:::{'spring': 1}
+CRITICAL:root:groovy:::{'//www.groovy': 1}
+CRITICAL:root:分界线
+CRITICAL:root:f#:::{}
+CRITICAL:root:f#:::{}
+CRITICAL:root:f#:::{}
+CRITICAL:root:分界线
+CRITICAL:root:scala:::{'scala': 2, 'linux': 1}
+CRITICAL:root:scala:::{'rest': 1}
+CRITICAL:root:scala:::{}
+CRITICAL:root:分界线
+CRITICAL:root:azure:::{'wget': 1}
+CRITICAL:root:azure:::{'azure': 23, 'ccappfunctionplan': 2, 'sql': 1, 'databricks': 2, 'hsm': 4, 'kubernetes': 1, 'vsftp': 1, 'wan': 1, 'paas': 1, 'web': 1, 'saas': 1}
+CRITICAL:root:azure:::{}
+CRITICAL:root:分界线
+CRITICAL:root:gwt:::{'applicationcreator': 2, 'gwt': 1}
+CRITICAL:root:gwt:::{'rest': 1, 'http': 1, 'rpc': 1, 'web': 2}
+CRITICAL:root:gwt:::{}
+CRITICAL:root:分界线
+CRITICAL:root:git:::{'git': 47, 'cvs': 2, 'diff': 1, 'a': 1, 'ls': 1, 'fetch': 1, 'list': 1, 'checkout': 1}
+CRITICAL:root:git:::{'git': 2, 'ssh': 1}
+CRITICAL:root:git:::{}
+CRITICAL:root:分界线
+CRITICAL:root:github:::{'git': 2}
+CRITICAL:root:github:::{'github': 1, 'gitlab': 1}
+CRITICAL:root:github:::{}
+CRITICAL:root:分界线
+CRITICAL:root:splunk:::{'splunk': 9, 'cli': 4, 'inputlookup': 1, 'all': 2, 'transaction': 2, 'oneshot': 1, 'spool': 1}
+CRITICAL:root:splunk:::{'splunk': 30, 'it': 3, 'splunkuniversalforwarder': 1, 'iptables': 1}
+CRITICAL:root:splunk:::{'/foo/splunk //': 2, '//docs.splunk.com/documentation/splunk/latest/admin/ aboutconfigurationfiles': 2}
+CRITICAL:root:分界线
+CRITICAL:root:mercurial:::{'mercurial': 5, 'commit': 1, 'merge': 1, 'clone': 2, 'identity': 1, 'add': 1, 'serve': 1, 'hg': 2, 'hello': 1}
+CRITICAL:root:mercurial:::{'git': 1}
+CRITICAL:root:mercurial:::{'//www.selenic.com/repo/hello my': 1, '//mercurial.selenic.com/wiki/tutorialfirstchange': 1}
+CRITICAL:root:分界线
+CRITICAL:root:tlb:::{}
+CRITICAL:root:tlb:::{}
+CRITICAL:root:tlb:::{}
+CRITICAL:root:分界线
+CRITICAL:root:powershell:::{'cmd': 12, 'powershell': 28, 'executionpolicy': 2, 'member': 1, 'object': 1, 'process': 1, 'gps': 1, 'notepad': 1, 'ping': 1, 'cmdlet': 1, 'chcp': 1, 'sftp': 1, 'file': 1, 'import': 1, 'exit': 1}
+CRITICAL:root:powershell:::{}
+CRITICAL:root:powershell:::{'/powershell/powertab': 1, '/my documents/windowspowershell': 1, '/users//documents/windowspowershell': 1}
+CRITICAL:root:分界线
+CRITICAL:root:selenium:::{'pip': 1, 'selenium': 3}
+CRITICAL:root:selenium:::{}
+CRITICAL:root:selenium:::{}
+CRITICAL:root:分界线
+CRITICAL:root:deltacloud:::{}
+CRITICAL:root:deltacloud:::{}
+CRITICAL:root:deltacloud:::{}
+CRITICAL:root:分界线
+CRITICAL:root:vagrant:::{'vagrant': 17, 'yum': 1, 'ssh': 5, 'cmd': 1, 'gem': 3, 'git': 2, 'wget': 1, 'd': 1, 'provision': 1, 'passwd': 1, 'config': 1}
+CRITICAL:root:vagrant:::{'nginx': 3, 'ssh': 1}
+CRITICAL:root:vagrant:::{'//yum.oracle.com/boxes/oraclelinux/': 2, '/vagrant': 1}
+CRITICAL:root:分界线
+CRITICAL:root:jquery:::{}
+CRITICAL:root:jquery:::{}
+CRITICAL:root:jquery:::{}
+CRITICAL:root:分界线
+CRITICAL:root:sonar:::{'runner': 7, 'sonar': 12, 'git': 1, 'mvn': 2, 'maven': 4, 'shell': 1, 'x': 1, 'scanner': 1}
+CRITICAL:root:sonar:::{'sonarqube': 12, 'linux': 7, 'sonar': 24, 'windows': 1, 'window': 1}
+CRITICAL:root:sonar:::{'/conf/sonar.properties': 6, '//docs.sonarqube.org/display/sonar/analysis': 2, '//localhost': 2, '//www.somecompany.com/': 1, '/': 2, '/conf/settings.xml': 2, '/.': 2, '/workspace/xxx sonar.sources': 1, '//www.sonarqube.org/downloads': 1, '//': 1, '/usr/local/sonarqube': 1, '//docs.sonarqube.org/display/scan/analyzing': 1}
+CRITICAL:root:分界线
+CRITICAL:root:gradle:::{'gradle': 27, 'dos': 2, 'version': 1, 'v': 3, 'wrapper': 3, 'gradlew': 2, 'cmd': 2, 'name': 1, 'jar': 1}
+CRITICAL:root:gradle:::{'http': 1}
+CRITICAL:root:gradle:::{'//services.gradle.org/distributions/gradle': 3, '//downloads.gradle.org/distributions/gradle': 1, '/span': 1, '//localhost': 1}
+CRITICAL:root:分界线
+CRITICAL:root:vcs:::{'cli': 4, 'vcs': 13, 'urg': 3, 'ucli': 2, 'lmgrd': 2, 'installvcs': 1, 'configure': 1}
+CRITICAL:root:vcs:::{'vcs': 2, 'gab': 2, 'llt': 2}
+CRITICAL:root:vcs:::{'/.rhosts': 2, '/etc/inet/hosts': 1}
+CRITICAL:root:分界线
+CRITICAL:root:jruby:::{}
+CRITICAL:root:jruby:::{'restful': 4, 'github': 3}
+CRITICAL:root:jruby:::{}
+CRITICAL:root:分界线
+CRITICAL:root:atom:::{'apm': 4, 'atom': 4, 'cd': 1, 'npm': 1, 'svn': 2, 'vim': 1, 'sublime': 1}
+CRITICAL:root:atom:::{}
+CRITICAL:root:atom:::{'/.atom': 3, '/.atom/.apmrc': 1, '/.atom/config.cson': 1}
+CRITICAL:root:分界线
+CRITICAL:root:kvm:::{'kvm': 5, 'ps': 2, 'run': 4, 'modprobe': 1, 'install': 1, 'validate': 1}
+CRITICAL:root:kvm:::{'kvm': 8, 'libvirtd': 2, 'nginx': 1, 'nfs': 1, 'libvirt': 2}
+CRITICAL:root:kvm:::{'/etc/udev/rules.d/': 1, '//download.csdn.net/detail/csdn': 1, '/etc/libvirt/qemu': 1}
+CRITICAL:root:分界线
+CRITICAL:root:aws:::{'aws': 6, 'cli': 1, 'remove': 1, 'ssh': 1, 'scp': 1, 'shell': 1}
+CRITICAL:root:aws:::{'aws': 61, 'efs': 1, 'lambda': 1, 'keeplived': 1, 'emr': 1, 'config': 1, 'lb': 2, 'elb': 1, 'kinesis': 1, 'bi': 1, 'it': 1, 'cdn': 1, 'cloudfront': 1}
+CRITICAL:root:aws:::{}
+CRITICAL:root:分界线
+CRITICAL:root:heroku:::{'create': 3, 'set': 1, 'git': 3, 'heroku': 10, 'upgrade': 1, 'maintenance': 1, 'login': 6, 'python': 1, 'gunicorn': 3}
+CRITICAL:root:heroku:::{'heroku': 1, 'ipify': 1, 'kafka': 2}
+CRITICAL:root:heroku:::{}
+CRITICAL:root:分界线
+CRITICAL:root:tablet:::{}
+CRITICAL:root:tablet:::{'master': 2, 'tablet': 1, 'tablets': 1}
+CRITICAL:root:tablet:::{}
+CRITICAL:root:分界线
+CRITICAL:root:vfabric:::{}
+CRITICAL:root:vfabric:::{}
+CRITICAL:root:vfabric:::{}
+CRITICAL:root:分界线
+CRITICAL:root:openstack:::{'openstack': 4, 'manage': 2, 'free': 1, 'curl': 1}
+CRITICAL:root:openstack:::{'openstack': 48, 'identity': 3, 'telemetry': 2, 'orchestration': 4, 'rabbitmq': 2, 'openstackidentity': 2, 'dhcp': 3, 'swift': 1, 'volume': 4, 'heat': 2, 'vnc': 2, 'jisuan': 1, 'iaas': 1, 'httpd': 1, 'api': 1, 'image': 1, 'target': 1, 'paas': 1}
+CRITICAL:root:openstack:::{'/etc/hosts  ': 1, '/ip  systemctl enable chronyd.service ': 1, '/usr/share/mysql/my': 1, '/usr/lib/systemd/system/mariadb.service': 1, '/etc/systemd/system/multi': 1, '/var/lib/mysql': 1, '/etc/my.cnf.d/mariadb': 1, '//': 3, '/etc/ //': 2, '/ ': 1, '/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:node:::{'dos': 1, 'cmd': 1, 'v': 2, 'node': 2, 'npm': 1, 'build': 1}
+CRITICAL:root:node:::{'rpc': 1, 'api': 1}
+CRITICAL:root:node:::{}
+CRITICAL:root:分界线
+CRITICAL:root:gpgpu:::{'make': 2, 'gpu': 1}
+CRITICAL:root:gpgpu:::{}
+CRITICAL:root:gpgpu:::{}
+CRITICAL:root:分界线
+CRITICAL:root:ws:::{'ws': 1, 'npm': 1}
+CRITICAL:root:ws:::{'web': 18, 'webservice': 7, 'websocket': 1, 'service': 1, 'ws': 8, 'httpserver': 1}
+CRITICAL:root:ws:::{}
+CRITICAL:root:分界线
+CRITICAL:root:sass:::{'sass': 16, 'git': 1, 'import': 6, 'npm': 1, 'convert': 2}
+CRITICAL:root:sass:::{'elixir': 2}
+CRITICAL:root:sass:::{}
+CRITICAL:root:分界线
+CRITICAL:root:scss:::{'import': 3, 'root': 1}
+CRITICAL:root:scss:::{}
+CRITICAL:root:scss:::{}
+CRITICAL:root:分界线
+CRITICAL:root:less:::{'less': 58, 'more': 2, 'ess': 1}
+CRITICAL:root:less:::{}
+CRITICAL:root:less:::{}
+CRITICAL:root:分界线
+CRITICAL:root:haml:::{}
+CRITICAL:root:haml:::{}
+CRITICAL:root:haml:::{'/opt/ror http': 1, '//rubyforge.org/frs/download.php/': 1, '/opt/ruby': 4, '/opt/ror/gems http': 1, '//rubygems.org/downloads/passenger': 1, '//www.modrails.com': 1, '/bin/bash export oracle': 2, '/opt/oracle/eesrv/': 4, '/opt/oracle/otk/': 4, '/lib': 2, '/usr/lib': 2, '/usr/local/lib': 2, '/opt/oracle/network export nls': 2, '//www.sencha.com/products/js/download.php unzip ext': 1, '//rubygems.org': 1, '//github.com/skozlov/netzke': 3, '//': 1, '//sourceforge.net/projects/pcre/files/ ': 1, '//nginx.org/download/nginx': 1, '/opt/nginx': 3, '/opt/nginx/conf/nginx.conf': 1, '//www.modrails.com/ phusion passenger is a trademark of hongli lai ': 1, '//github.com/xdite/rails': 1, '//wiki.github.com/rsim/oracle': 1}
+CRITICAL:root:分界线
+CRITICAL:root:coffeescript:::{'coffee': 1, 'coffeescript': 2, 'npm': 1}
+CRITICAL:root:coffeescript:::{'web': 1, 'node': 1}
+CRITICAL:root:coffeescript:::{}
+CRITICAL:root:分界线
+CRITICAL:root:atom:::{'apm': 3, 'atom': 3, 'cd': 1, 'npm': 1, 'svn': 1, 'vim': 1}
+CRITICAL:root:atom:::{}
+CRITICAL:root:atom:::{'/.atom': 2, '/.atom/.apmrc': 1}
+CRITICAL:root:分界线
+CRITICAL:root:ipad:::{}
+CRITICAL:root:ipad:::{}
+CRITICAL:root:ipad:::{}
+CRITICAL:root:分界线
+CRITICAL:root:mobile web:::{}
+CRITICAL:root:mobile web:::{}
+CRITICAL:root:mobile web:::{}
+CRITICAL:root:分界线
+CRITICAL:root:rdfa:::{}
+CRITICAL:root:rdfa:::{}
+CRITICAL:root:rdfa:::{}
+CRITICAL:root:分界线
+CRITICAL:root:ria:::{}
+CRITICAL:root:ria:::{'ria': 135}
+CRITICAL:root:ria:::{}
+CRITICAL:root:分界线
+CRITICAL:root:jade:::{'jade': 11, 'gulp': 1, 'cmd': 2, 'w': 1}
+CRITICAL:root:jade:::{}
+CRITICAL:root:jade:::{}
+CRITICAL:root:分界线
+CRITICAL:root:nuget:::{'pack': 1, 'id': 1, 'nuget': 12, 'push': 1, 'exec': 2, 'cmd': 1, 'cli': 1}
+CRITICAL:root:nuget:::{'nuget': 12}
+CRITICAL:root:nuget:::{}
+CRITICAL:root:分界线
+CRITICAL:root:highcharts:::{}
+CRITICAL:root:highcharts:::{}
+CRITICAL:root:highcharts:::{}
+CRITICAL:root:分界线
+CRITICAL:root:d3:::{}
+CRITICAL:root:d3:::{}
+CRITICAL:root:d3:::{}
+CRITICAL:root:分界线
+CRITICAL:root:pig:::{'pig': 38, 'explain': 1, 'fs': 3, 'shell': 2, 'register': 5, 'sh': 1, 'dump': 5, 'set': 4, 'help': 6, 'run': 4, 'store': 1, 'describe': 1, 'illustrate': 1, 'mv': 1, 'load': 2, 'shshell': 1, 'vim': 1}
+CRITICAL:root:pig:::{}
+CRITICAL:root:pig:::{'/': 6, '/pig': 6, '/usr/local/': 1, '/home/grid/hadoop': 3, '//pig.apache.org/docs/': 1, '//': 1}
+CRITICAL:root:分界线
+CRITICAL:root:saas:::{}
+CRITICAL:root:saas:::{'saas': 159, 'buzzword': 3, 'api': 1, 'it': 3, 'crm': 1, 'soa': 2, 'web': 1}
+CRITICAL:root:saas:::{}
+CRITICAL:root:分界线
+CRITICAL:root:locust:::{'f': 7, 'salve': 7, 'cmd': 1, 'locust': 19, 'shell': 6, 'help': 3, 'locusts': 3}
+CRITICAL:root:locust:::{'web': 7, 'slave': 1, 'locust': 2}
+CRITICAL:root:locust:::{'/.locust.conf': 2}
+CRITICAL:root:分界线
+CRITICAL:root:rake:::{'rake': 19}
+CRITICAL:root:rake:::{}
+CRITICAL:root:rake:::{}
+CRITICAL:root:分界线
+CRITICAL:root:riak:::{'shell': 2, 'reip': 2, 'coverage': 1, 'riak': 1}
+CRITICAL:root:riak:::{'riak': 9, 'cs': 1}
+CRITICAL:root:riak:::{'//github.com/basho/riak': 12, '/': 2}
+CRITICAL:root:分界线
+CRITICAL:root:paas:::{}
+CRITICAL:root:paas:::{'paas': 43, 'saas': 5, 'web': 4, 'azure': 1, 'iaas': 4}
+CRITICAL:root:paas:::{}
+CRITICAL:root:分界线
+CRITICAL:root:mongodb:::{'help': 1, 'db': 1, 'mongo': 4, 'dos': 22, 'mongod': 2, 'get': 1, 'mongodb': 3, 'shell': 2, 'put': 1, 'cmd': 2, 'mongostat': 1}
+CRITICAL:root:mongodb:::{'mongodb': 85, 'windows': 14, 'paas': 1, 'mongod': 3}
+CRITICAL:root:mongodb:::{'/etc/yum.repos.d/mongodb': 1, '//repo.mongodb.org/yum/redhat/': 1, '//www.mongodb.org/static/pgp/server': 1, '/usr/local/mongodb/data/db/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:powershell:::{'cmd': 11, 'powershell': 25, 'host': 2, 'member': 1, 'cmdlet': 2, 'executionpolicy': 2, 'process': 1, 'alias': 2, 'spweb': 1, 'pssession': 1, 'chcp': 1, 'help': 1, 'progress': 1, 'sleep': 1, 'sftp': 1, 'file': 1, 'import': 1, 'exit': 1}
+CRITICAL:root:powershell:::{}
+CRITICAL:root:powershell:::{'/powershell/powertab': 1, '/my documents/windowspowershell': 1, '/users//documents/windowspowershell': 1}
+CRITICAL:root:分界线
+CRITICAL:root:bigquery:::{'shell': 2, 'bq': 2, 'bigquery': 1, 'copy': 1}
+CRITICAL:root:bigquery:::{'web': 5, 'bigquery': 5, 'blaze': 1, 'sql': 2}
+CRITICAL:root:bigquery:::{}
+CRITICAL:root:分界线
+CRITICAL:root:hadoop:::{'jps': 10, 'hadoop': 11, 'scp': 6, 'more': 1, 'hdfs': 1, 'unix': 2, 'wget': 1, 'hostname': 1, 'all': 1, 'shell': 1, 'source': 1, 'ls': 3, 'get': 1, 'cat': 2, 'tail': 1}
+CRITICAL:root:hadoop:::{'hadoop': 7, 'namanode': 4, 'sshd': 1, 'ssh': 1, 'namenode': 1, 'jobtraker': 1}
+CRITICAL:root:hadoop:::{'//pan.baidu.com/s/': 3, '/code': 1, '/usr/local/hadoop/etc/hadoop': 2, '/opt/hadoop/hadoop/etc/hadoop': 1, '/configuration': 1, '/usr/local/etc/hadoop': 1, '/opt/module/hadoop': 1, '/etc/hadoop/slaves': 1, '/etc/hadoop/core': 1, '/opt/applications/hadoop/hadoop': 2, '/usr/local': 1, '/usr/local/': 1, '/etc/  jdk': 1, '/usr/local/  hadoop': 1, '/usr/local/  /etc/profile ': 1, '/etc/  ': 1}
+CRITICAL:root:分界线
+CRITICAL:root:ibeacon:::{}
+CRITICAL:root:ibeacon:::{'ibeacon': 3}
+CRITICAL:root:ibeacon:::{}
+CRITICAL:root:分界线
+CRITICAL:root:cartodb:::{}
+CRITICAL:root:cartodb:::{'web': 1}
+CRITICAL:root:cartodb:::{}
+CRITICAL:root:分界线
+CRITICAL:root:docker:::{'yum': 3, 'run': 1, 'docker': 55, 'cmd': 3, 'ps': 1, 'startup': 1, 'attach': 3, 'a': 1, 'sudo': 1, 'job': 1, 'linux': 1, 'machine': 3, 'get': 2, 'version': 1, 'd': 2, 'dockerd': 1, 'reboot': 1, 'ls': 1, 'images': 1, 'curl': 1, 'ping': 1, 'push': 4, 'compose': 1, 'vim': 1, 'diff': 1, 'nsenter': 1, 'env': 1, 'volume': 1, 'expose': 1, 'dockerfile': 1}
+CRITICAL:root:docker:::{'registry': 3, 'docker': 37, 'hub': 1, 'web': 1}
+CRITICAL:root:docker:::{'/etc/docker/daemon.json': 3, '/etc/default/docker ': 2, '//': 2, '/etc/init/docker.conf': 1, '/etc/default/docker': 3}
+CRITICAL:root:分界线
+CRITICAL:root:flyway:::{'flyway': 5, 'maven': 8, 'migrate': 2, 'cmd': 1}
+CRITICAL:root:flyway:::{}
+CRITICAL:root:flyway:::{}
+CRITICAL:root:分界线
+CRITICAL:root:foreman:::{'puppet': 4}
+CRITICAL:root:foreman:::{'apache': 1, 'foreman': 6}
+CRITICAL:root:foreman:::{'/etc/foreman': 2}
+CRITICAL:root:分界线
+CRITICAL:root:genymotion:::{'adb': 1}
+CRITICAL:root:genymotion:::{}
+CRITICAL:root:genymotion:::{'/users/zoro/.genymobile/genymotion/deployed': 1}
+CRITICAL:root:分界线
+CRITICAL:root:gulp:::{'dos': 2, 'useref': 2, 'gulp': 31, 'shell': 2, 'watch': 1, 'cmd': 1}
+CRITICAL:root:gulp:::{}
+CRITICAL:root:gulp:::{'//': 8, '//git.oschina.net/xxxx': 1}
+CRITICAL:root:分界线
+CRITICAL:root:moco:::{'runner': 2, 'moco': 2, 'cd': 1}
+CRITICAL:root:moco:::{'moco': 21, 'http': 12, 'https': 7, 'socket': 7, 'runner': 4, 'mock': 1}
+CRITICAL:root:moco:::{'//github.com/dreamhead/moco/blob/master/moco': 2, '//www.sohu.com/a/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:packer:::{'packer': 2}
+CRITICAL:root:packer:::{}
+CRITICAL:root:packer:::{}
+CRITICAL:root:分界线
+CRITICAL:root:zipkin:::{'jar': 1, 'java': 2, 'zipkin': 1}
+CRITICAL:root:zipkin:::{'zipkin': 36, 'zipkinserver': 3, 'server': 8, 'dubbo': 2, 'feignserver': 2, 'user': 1, 'consumer': 2, 'http': 1, 'order': 2, 'elasticsearch': 1}
+CRITICAL:root:zipkin:::{'//localhost': 1, '//github.com/apache/incubator': 1}
+CRITICAL:root:分界线
+CRITICAL:root:axios:::{'axios': 1}
+CRITICAL:root:axios:::{'like': 4, 'http': 2, 'python': 1}
+CRITICAL:root:axios:::{}
+CRITICAL:root:分界线
+CRITICAL:root:pinpoint:::{'unzip': 2, 'list': 1}
+CRITICAL:root:pinpoint:::{'dubbo': 7, 'pinpoint': 3, 'ssh': 1, 'web': 10, 'collector': 1, 'hbase': 1, 'tomcat': 2}
+CRITICAL:root:pinpoint:::{'/usr/local/pinpoint': 2, '/usr/java/': 1, '/name': 1, '///data/hbase': 1, '/value': 1, '/property': 1, '/configuration': 1, '//': 4, '/g': 1, '/data/pp': 1}
+CRITICAL:root:分界线
+CRITICAL:root:dagger:::{'apt': 1}
+CRITICAL:root:dagger:::{}
+CRITICAL:root:dagger:::{}
+CRITICAL:root:分界线
+CRITICAL:root:dapper:::{}
+CRITICAL:root:dapper:::{}
+CRITICAL:root:dapper:::{}
+CRITICAL:root:分界线
+CRITICAL:root:elixir:::{'elixir': 1, 'gulp': 2}
+CRITICAL:root:elixir:::{}
+CRITICAL:root:elixir:::{}
+CRITICAL:root:分界线
+CRITICAL:root:enzyme:::{}
+CRITICAL:root:enzyme:::{}
+CRITICAL:root:enzyme:::{}
+CRITICAL:root:分界线
+CRITICAL:root:phoenix:::{'psql': 3, 'ddl': 3, 'dml': 2, 'update': 1, 'phoenix': 2, 'exit': 1, 'sqlline': 1, 'delete': 1}
+CRITICAL:root:phoenix:::{'hbase': 1, 'phoenix': 10, 'oltp': 1, 'httpd': 1}
+CRITICAL:root:phoenix:::{'/name': 11, '/value': 10, '/property': 10, '/.bash': 1, '/itcast/flume': 1, '/usr/java/': 1, '/itcast/hadoop': 1, '/id': 3, '//repository.cloudera.com/artifactory/cloudera': 1, '/url': 3, '/repository': 3, '//conjars.org/repo': 1, '//oss.sonatype.org/content/repositories/snapshots': 1, '/enabled': 1, '/snapshots': 1, '/repositories': 1, '/hbase.version': 1, '/hadoop': 1, '/hive.version': 1, '/hadoop.version': 1, '/spark.version': 1, '/scala.version': 1, '/scala.binary.version': 1, '/itcast/phoenix classpath': 1, '/opt/cloudera/parcels/cdh/lib/hbase/lib ': 1, '/description': 2, '/etc/hbase/conf/': 1, '/bin': 1}
+CRITICAL:root:分界线
+CRITICAL:root:elm:::{'linux': 1}
+CRITICAL:root:elm:::{}
+CRITICAL:root:elm:::{}
+CRITICAL:root:分界线
+CRITICAL:root:graphql:::{}
+CRITICAL:root:graphql:::{'graphql': 49, 'koa': 2, 'http': 4, 'grapgql': 1, 'web': 1, 'java': 1, 'stateless': 1}
+CRITICAL:root:graphql:::{}
+CRITICAL:root:分界线
+CRITICAL:root:jump:::{'jump': 4}
+CRITICAL:root:jump:::{}
+CRITICAL:root:jump:::{}
+CRITICAL:root:分界线
+CRITICAL:root:rapidoid:::{}
+CRITICAL:root:rapidoid:::{'web': 1, 'rest': 1}
+CRITICAL:root:rapidoid:::{}
+CRITICAL:root:分界线
+CRITICAL:root:recharts:::{}
+CRITICAL:root:recharts:::{}
+CRITICAL:root:recharts:::{}
+CRITICAL:root:分界线
+CRITICAL:root:reswift:::{}
+CRITICAL:root:reswift:::{}
+CRITICAL:root:reswift:::{}

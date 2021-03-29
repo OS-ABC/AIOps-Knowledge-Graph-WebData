@@ -1,0 +1,399 @@
+CRITICAL:root:java:::{'java9': 7, 'java1995': 1, 'java8': 21, 'java2': 3, 'java7': 12, 'java5': 2, 'java6': 6, 'java12': 2, 'java1.0': 4, 'java1.1': 2, 'java10': 3, 'java11': 9, 'javavirtualmachines': 8, 'java1.6': 1, 'java1.7': 2, 'java7u80': 1}
+CRITICAL:root:java:::{'james gosling': 4}
+CRITICAL:root:java:::{'https://www.oracle.com/technetwork/java/javase/downloads/index.html': 1, 'https://www.java.com/zh_cn/download/manual.jsp': 1, 'https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html': 1}
+CRITICAL:root:分界线
+CRITICAL:root:css:::{'css1': 4, 'css2': 6, 'css3': 13, 'css2.1': 3, 'css2.0': 4, 'css1.0': 5, 'css3.0': 5, 'css30': 2}
+CRITICAL:root:css:::{'bert bos': 1}
+CRITICAL:root:css:::{}
+CRITICAL:root:分界线
+CRITICAL:root:html:::{'html5': 42, 'html4.01': 6, 'html5shiv': 2, 'html4': 4, 'html5test': 1, 'html4.0': 1}
+CRITICAL:root:html:::{}
+CRITICAL:root:html:::{'http://www.expressjs.com.cn/starter/generator.html': 1, 'http://sui.taobao.org/sui/docs/index.html': 1}
+CRITICAL:root:分界线
+CRITICAL:root:html5:::{}
+CRITICAL:root:html5:::{}
+CRITICAL:root:html5:::{}
+CRITICAL:root:分界线
+CRITICAL:root:css3:::{}
+CRITICAL:root:css3:::{}
+CRITICAL:root:css3:::{}
+CRITICAL:root:分界线
+CRITICAL:root:js:::{'js5.6': 1}
+CRITICAL:root:js:::{'   ': 1}
+CRITICAL:root:js:::{'http://processingjs.org/articles/jsquickstart.html': 1, 'https://nodejs.org/en/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:javascript:::{'javascript1.5': 10, 'javascript1.8': 7, 'javascript1.1': 7, 'javascript1.2': 7, 'javascript1.3': 7, 'javascript1.4': 6, 'javascript1.6': 5, 'javascript1.7': 6, 'javascript2.0': 1, 'javascript1.9': 4, 'javascript1.0': 2}
+CRITICAL:root:javascript:::{'brendan eich': 1, 'native cient': 1}
+CRITICAL:root:javascript:::{}
+CRITICAL:root:分界线
+CRITICAL:root:ie:::{'ie8': 16, 'ie9': 15, 'ie7': 17, 'ie6': 17, 'ie5.0': 4, 'ie5.5': 2, 'ie5': 4, 'ie10': 11, 'ie4': 1, 'ie11': 5, 'ieversion': 1}
+CRITICAL:root:ie:::{}
+CRITICAL:root:ie:::{'https://support.microsoft.com/zh-cn/help/2399238/prerequisites-for-installing-internet-explorer-9#method2': 1}
+CRITICAL:root:分界线
+CRITICAL:root:asp:::{}
+CRITICAL:root:asp:::{}
+CRITICAL:root:asp:::{}
+CRITICAL:root:分界线
+CRITICAL:root:android:::{'android2.3': 4, 'android4.4': 2, 'android6.0': 29, 'android5.0': 4, 'android1.0': 2, 'android1.5': 1, 'android1.6': 1, 'android2.2': 1, 'android3.0': 1, 'android4.1': 3, 'android5.1': 1, 'android3.1': 1, 'android7.0': 10, 'android8.0': 6}
+CRITICAL:root:android:::{'andy rubin': 3}
+CRITICAL:root:android:::{'https://developer.android.com/guide/topics/manifest/uses-sdk-element': 1, 'http://www.android-studio': 1}
+CRITICAL:root:分界线
+CRITICAL:root:firefox:::{'firefox45': 1, 'firefox47': 3, 'firefox49': 1, 'firefox48': 1, 'firefox51': 1, 'firefox59.03': 1, 'firefox59': 1, 'firefox12': 3}
+CRITICAL:root:firefox:::{'blake ross': 1}
+CRITICAL:root:firefox:::{'http://www.firefox.com.cn/download/#more': 1, 'https://www.mozilla.org/zh-cn/firefox/new/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:iphone:::{'iphone3': 4, 'iphone4': 3, 'iphone5': 6, 'iphone6': 4, 'iphone7': 3, 'iphone8': 5, 'iphone9': 8, 'iphone10': 7, 'iphone11': 4, 'iphone12': 4, 'iphone3gs': 3, 'iphone1': 2, 'iphone2': 1, 'iphone6plus': 1, 'iphone4s': 1, 'iphone5s': 1, 'iphone6p': 1, 'iphone6s': 1, 'iphone6sp': 1}
+CRITICAL:root:iphone:::{}
+CRITICAL:root:iphone:::{}
+CRITICAL:root:分界线
+CRITICAL:root:chrome:::{'chrome41': 1, 'chrome64win': 1, 'chromev74': 2, 'chrome32win': 1}
+CRITICAL:root:chrome:::{}
+CRITICAL:root:chrome:::{'https://www.google.com/chrome/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:ie8:::{}
+CRITICAL:root:ie8:::{}
+CRITICAL:root:ie8:::{}
+CRITICAL:root:分界线
+CRITICAL:root:c#:::{}
+CRITICAL:root:c#:::{}
+CRITICAL:root:c#:::{}
+CRITICAL:root:分界线
+CRITICAL:root:oauth:::{'oauth2': 47, 'oauth2.0': 16, 'oauth1.0': 10, 'oauth2serverconfig': 1, 'oauth2authorizationserver': 1, 'oauth2client': 2, 'oauth2authorizedclient': 6, 'oauth2accesstoken': 4, 'oauth2refreshtoken': 1, 'oauth2authorizedclientrepository': 4, 'oauth2authorizedclientservice': 5, 'oauth2authorizedclientargumentresolver': 1, 'oauth2authorizationrequest': 10, 'oauth2authorizationrequestresolver': 3, 'oauth2login': 1, 'oauth2accesstokenresponseclient': 3, 'oauth2authorizationcodegrantrequest': 1, 'oauth2authorizationcodegrantrequestentityconverter': 1, 'oauth2accesstokenresponsehttpmessageconverter': 2, 'oauth2accesstokenresponse': 2, 'oauth2errorresponseerrorhandler': 1, 'oauth2errorhttpmessageconverter': 1, 'oauth2error': 1}
+CRITICAL:root:oauth:::{}
+CRITICAL:root:oauth:::{'https://oauth.net/': 1, 'https://oauth.net/code/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:squid:::{'squid3.0': 3, 'squid.3': 1, 'squid2.6': 7, 'squid2.5': 7, 'squid2': 5, 'squid2.7': 1, 'squid2.0': 2, 'squid1': 4, 'squid3': 13}
+CRITICAL:root:squid:::{}
+CRITICAL:root:squid:::{'http://www.squid-cache.org/': 3, 'http://www.squid-cache.org': 1}
+CRITICAL:root:分界线
+CRITICAL:root:neo4j:::{'neo4j4': 1, 'neo4j3': 1}
+CRITICAL:root:neo4j:::{'emil eifrem': 1, 'peter neubauer': 2}
+CRITICAL:root:neo4j:::{'https://neo4j.com/download-center/': 2, 'https://pan.baidu.com/s/1hyghs6_w5rqoac41v30stq': 1, 'http://neo4j.com/': 1, 'http://neo4j.com/developer/get-started/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:mongodb:::{'mongodb1': 1, 'mongodb2': 1, 'mongodb3': 1, 'mongodb3.6': 1, 'mongodb3.4': 3, 'mongodb3.0': 1}
+CRITICAL:root:mongodb:::{'eliot horowitz': 3, 'eliot horowitz ': 1, 'gnu ': 1, 'cto dwight merriman': 1}
+CRITICAL:root:mongodb:::{'https://www.mongodb.com': 1, 'https://www.mongodb.com/download-center/community': 1, 'https://docs.mongodb.com/master/tutorial/install-mongodb-on-ubuntu/?_ga=2.248935234.453417702.1528768122-1832599284.1528768122': 1, 'http://mongodb.github.io/mongo-java-driver/3.9/driver/getting-started/quick-start/': 1, 'https://www.mongodb.com/': 1, 'https://www.mongodb.com/download-center?jmp=nav#community': 1, 'https://www.mongodb.com/download-center#community': 1}
+CRITICAL:root:分界线
+CRITICAL:root:nosql:::{}
+CRITICAL:root:nosql:::{'salesforce.com': 1}
+CRITICAL:root:nosql:::{}
+CRITICAL:root:分界线
+CRITICAL:root:github:::{}
+CRITICAL:root:github:::{'cio scott chacon': 1, 'tom preston': 1}
+CRITICAL:root:github:::{'http://github.com': 2, 'https://github.com/': 4}
+CRITICAL:root:分界线
+CRITICAL:root:esb:::{'esb26': 3, 'esb24': 3, 'esb500': 1}
+CRITICAL:root:esb:::{}
+CRITICAL:root:esb:::{'https://developer.mulesoft.com/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:ruby:::{'ruby1.9': 1, 'ruby23': 7}
+CRITICAL:root:ruby:::{'matz': 4, 'heroku': 1}
+CRITICAL:root:ruby:::{'http://www.ruby-lang.org/zh_cn/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:dsls:::{}
+CRITICAL:root:dsls:::{}
+CRITICAL:root:dsls:::{}
+CRITICAL:root:分界线
+CRITICAL:root:groovy:::{'groovy2': 1, 'groovy3': 1}
+CRITICAL:root:groovy:::{'james strachan': 1, 'java': 1, 'programming in scala': 1}
+CRITICAL:root:groovy:::{'http://www.groovy-lang.org/download.html': 1}
+CRITICAL:root:分界线
+CRITICAL:root:f#:::{}
+CRITICAL:root:f#:::{}
+CRITICAL:root:f#:::{}
+CRITICAL:root:分界线
+CRITICAL:root:scala:::{'scala2.11': 7, 'scala2.12': 2, 'scala2.10': 1, 'scalaversion': 4, 'scalavim': 1}
+CRITICAL:root:scala:::{'martin odersky': 5, ' martin odersky': 1, 'james strachan': 1}
+CRITICAL:root:scala:::{'http://www.scala-lang.org/download/': 2, 'http://www.scala-lang.org/download/all.html': 1, 'http://download.scala-ide.org/sdk/lithium/e47/scala212/stable/site': 1}
+CRITICAL:root:分界线
+CRITICAL:root:azure:::{}
+CRITICAL:root:azure:::{}
+CRITICAL:root:azure:::{'https://www.azure.cn': 1}
+CRITICAL:root:分界线
+CRITICAL:root:gwt:::{'gwt1.7': 1}
+CRITICAL:root:gwt:::{}
+CRITICAL:root:gwt:::{'https://mex.link': 1}
+CRITICAL:root:分界线
+CRITICAL:root:git:::{'git2.0': 1, 'git1.0': 1}
+CRITICAL:root:git:::{' ': 1, 'linus torvalds': 2, 'linus': 1, ' linux': 1}
+CRITICAL:root:git:::{'https://github.com/git-for-windows/git/releases/download/v2.21.0.windows.1/git-2.21.0-64-bit.exe': 1, 'https://git-scm.com/': 2, 'https://git-scm.com/downloads': 1}
+CRITICAL:root:分界线
+CRITICAL:root:github:::{}
+CRITICAL:root:github:::{'cio scott chacon': 1, 'tom preston': 1}
+CRITICAL:root:github:::{'http://github.com': 2, 'https://github.com/': 4}
+CRITICAL:root:分界线
+CRITICAL:root:splunk:::{}
+CRITICAL:root:splunk:::{'chris stolte': 1}
+CRITICAL:root:splunk:::{}
+CRITICAL:root:分界线
+CRITICAL:root:mercurial:::{}
+CRITICAL:root:mercurial:::{}
+CRITICAL:root:mercurial:::{'https://www.mercurial-scm.org/': 1, 'http://mercurial.selenic.com/wiki/chinesemercurial': 1, 'http://mercurial.selenic.com/wiki/chinesetutorial': 1, 'http://mercurial.selenic.com/wiki/chinesequickstart': 1, 'http://hgbook.red-bean.com/read/': 1, 'http://www.ibm.com/developerworks/cn/opensource/os-cn-mercurial/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:tlb:::{'tlb3': 1}
+CRITICAL:root:tlb:::{}
+CRITICAL:root:tlb:::{}
+CRITICAL:root:分界线
+CRITICAL:root:powershell:::{'powershell3.0': 1}
+CRITICAL:root:powershell:::{'jeffrey snover': 1}
+CRITICAL:root:powershell:::{}
+CRITICAL:root:分界线
+CRITICAL:root:selenium:::{'seleniumv3.0': 2, 'selenium3.5': 1}
+CRITICAL:root:selenium:::{'selenium grid': 2, ' jason huggins': 1}
+CRITICAL:root:selenium:::{'https://www.selenium.dev/': 1, 'https://huilansame.github.io/huilansame.github.io/archivers/chromedriver-to-chrome-version': 1, 'https://www.cnblogs.com/yfacesclub/p/8482681.html': 1, 'http://chromedriver.storage.googleapis.com/index.html': 1, 'http://npm.taobao.org/mirrors/chromedriver': 1, 'https://github.com/mozilla/geckodriver/releases': 1}
+CRITICAL:root:分界线
+CRITICAL:root:deltacloud:::{}
+CRITICAL:root:deltacloud:::{}
+CRITICAL:root:deltacloud:::{'http://deltacloud.apache.org/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:vagrant:::{'vagrant2.2': 1, 'vagrant1.9': 1}
+CRITICAL:root:vagrant:::{'kiip': 1}
+CRITICAL:root:vagrant:::{'https://www.vagrantup.com/': 4, 'http://www.vagrantup.com/downloads.html': 1, 'http://www.vagrantbox.es/': 1, 'https://www.vagrantup.com/downloads.html': 1}
+CRITICAL:root:分界线
+CRITICAL:root:jquery:::{'jquery1.9': 2, 'jquery14': 1, 'jquery1.5': 2, 'jquery3.2': 1, 'jquery2.0': 1, 'jquery3.1': 1, 'jquery3': 1, 'jquery1.7': 2, 'jquery1.8': 1, 'jquery1.4': 2, 'jquery1': 3, 'jquery1.1': 1}
+CRITICAL:root:jquery:::{'john resig': 13, 'john resig ': 1}
+CRITICAL:root:jquery:::{'https://jquery.com/': 3, 'https://code.jquery.com/': 1, 'https://code.jquery.com/jquery/': 1, 'http://jquery.com/': 2}
+CRITICAL:root:分界线
+CRITICAL:root:sonar:::{'sonar6.7': 1, 'sonar7.9': 2, 'sonar7.3': 1}
+CRITICAL:root:sonar:::{'brett martin': 1}
+CRITICAL:root:sonar:::{'http://www.sonarqube.org/': 2, 'http://docs.codehaus.org/display/sonar/documentation': 2, 'http://nemo.sonarqube.org/': 2, 'https://www.sonarqube.org/downloads/': 1, 'https://docs.sonarqube.org/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:gradle:::{'gradleversion': 3}
+CRITICAL:root:gradle:::{'adam murdoch': 1, 'dockter': 1}
+CRITICAL:root:gradle:::{'https://services.gradle.org/distributions/': 2, 'https://gradle.org/gradle-download/': 1, 'https://gradle.org/install/#manually': 1, 'http://gradle.org/': 1, 'https://gradle.org/releases': 1}
+CRITICAL:root:分界线
+CRITICAL:root:vcs:::{'vcs2018.09': 1, 'vcs2017': 1, 'vcs2016': 1, 'vcs2016.06': 1, 'vcs2012': 1}
+CRITICAL:root:vcs:::{}
+CRITICAL:root:vcs:::{}
+CRITICAL:root:分界线
+CRITICAL:root:jruby:::{'jruby19': 1, 'jruby1': 1}
+CRITICAL:root:jruby:::{}
+CRITICAL:root:jruby:::{'http://jruby.org/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:atom:::{}
+CRITICAL:root:atom:::{'chris wanstrath': 1}
+CRITICAL:root:atom:::{'https://atom.io/': 3, 'https://github.com/atom': 2, 'https://atom.io/docs': 1, 'https://download.csdn.net/download/qq_30993595/10606731': 1, 'https://atom.io': 2}
+CRITICAL:root:分界线
+CRITICAL:root:kvm:::{'kvm01': 2, 'kvm02': 2, 'kvmvirsh': 1}
+CRITICAL:root:kvm:::{}
+CRITICAL:root:kvm:::{'https://www.linux-kvm.org': 1}
+CRITICAL:root:分界线
+CRITICAL:root:aws:::{}
+CRITICAL:root:aws:::{'felix klock': 1, 'yaron haviv': 1}
+CRITICAL:root:aws:::{'https://aws.amazon.com/cn/certification/certification-prep/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:heroku:::{'heroku2': 4}
+CRITICAL:root:heroku:::{'cto': 1, 'james lindebaum': 1, 'adamwiggins': 2, 'adam wiggins': 1}
+CRITICAL:root:heroku:::{'https://www.heroku.com/': 1, 'https://www.heroku.com/dynos#:~:text=dynos%20are%20the%20building%20blocks,add%2d': 1}
+CRITICAL:root:分界线
+CRITICAL:root:tablet:::{'tablet2': 1}
+CRITICAL:root:tablet:::{}
+CRITICAL:root:tablet:::{}
+CRITICAL:root:分界线
+CRITICAL:root:vfabric:::{'vfabric5': 1}
+CRITICAL:root:vfabric:::{}
+CRITICAL:root:vfabric:::{}
+CRITICAL:root:分界线
+CRITICAL:root:openstack:::{}
+CRITICAL:root:openstack:::{'cto': 2, 'jonathan bryce': 1}
+CRITICAL:root:openstack:::{'https://docs.openstack.org/image-guide/obtain-images.html#microsoft-windows': 1, 'https://docs.openstack.org/': 1, 'https://releases.openstack.org/#teams': 2}
+CRITICAL:root:分界线
+CRITICAL:root:node:::{'node12': 3, 'node10.20': 1, 'node10': 1}
+CRITICAL:root:node:::{'ryan dahl': 1}
+CRITICAL:root:node:::{'https://nodejs.org/en/': 2}
+CRITICAL:root:分界线
+CRITICAL:root:gpgpu:::{}
+CRITICAL:root:gpgpu:::{}
+CRITICAL:root:gpgpu:::{'http://www.gpgpu-sim.org': 1}
+CRITICAL:root:分界线
+CRITICAL:root:ws:::{'ws812': 1, 'ws2812': 59, 'ws2812loop': 2, 'ws2812b': 2, 'ws2811': 2, 'ws2812led': 1, 'ws2812fx': 1, 'ws8212': 1}
+CRITICAL:root:ws:::{}
+CRITICAL:root:ws:::{}
+CRITICAL:root:分界线
+CRITICAL:root:sass:::{'sass4.5': 2, 'sass4.9': 1, 'sass4.6': 1}
+CRITICAL:root:sass:::{}
+CRITICAL:root:sass:::{'https://sass-lang.com/dart-sass': 1, 'https://www.sass.hk/': 1, 'https://sass-lang.com/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:scss:::{}
+CRITICAL:root:scss:::{}
+CRITICAL:root:scss:::{}
+CRITICAL:root:分界线
+CRITICAL:root:less:::{'less2css': 5}
+CRITICAL:root:less:::{' bas vodde': 1}
+CRITICAL:root:less:::{}
+CRITICAL:root:分界线
+CRITICAL:root:haml:::{}
+CRITICAL:root:haml:::{}
+CRITICAL:root:haml:::{}
+CRITICAL:root:分界线
+CRITICAL:root:coffeescript:::{}
+CRITICAL:root:coffeescript:::{}
+CRITICAL:root:coffeescript:::{}
+CRITICAL:root:分界线
+CRITICAL:root:atom:::{}
+CRITICAL:root:atom:::{'chris wanstrath': 1}
+CRITICAL:root:atom:::{'https://atom.io/': 3, 'https://github.com/atom': 2, 'https://atom.io/docs': 1, 'https://download.csdn.net/download/qq_30993595/10606731': 1, 'https://atom.io': 2}
+CRITICAL:root:分界线
+CRITICAL:root:ipad:::{'ipad2017': 3, 'ipad6.11': 1, 'ipad1': 2, 'ipad2': 1}
+CRITICAL:root:ipad:::{}
+CRITICAL:root:ipad:::{}
+CRITICAL:root:分界线
+CRITICAL:root:mobile web:::{}
+CRITICAL:root:mobile web:::{}
+CRITICAL:root:mobile web:::{}
+CRITICAL:root:分界线
+CRITICAL:root:rdfa:::{'rdfa1.0': 1, 'rdfa1.1': 3}
+CRITICAL:root:rdfa:::{}
+CRITICAL:root:rdfa:::{}
+CRITICAL:root:分界线
+CRITICAL:root:ria:::{}
+CRITICAL:root:ria:::{}
+CRITICAL:root:ria:::{}
+CRITICAL:root:分界线
+CRITICAL:root:jade:::{}
+CRITICAL:root:jade:::{}
+CRITICAL:root:jade:::{'http://jade.tilab.com/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:nuget:::{'nuget2.0': 1}
+CRITICAL:root:nuget:::{}
+CRITICAL:root:nuget:::{'https://www.nuget.org/': 2, 'https://docs.microsoft.com/zh-cn/nuget/what-is-nuget': 1, 'http://www.nuget.org': 1, 'http://license_url_here_or_delete_this_line': 1, 'https://docs.microsoft.com/en-us/nuget/what-is-nuget': 1, 'http://project_url_here_or_delete_this_line': 1, 'http://icon_url_here_or_delete_this_line': 1}
+CRITICAL:root:分界线
+CRITICAL:root:highcharts:::{}
+CRITICAL:root:highcharts:::{}
+CRITICAL:root:highcharts:::{'https://www.hcharts.cn/': 1, 'http://www.highcharts.com/': 1, 'http://www.highcharts.com/demo/pie-basic': 1, 'http://api.highcharts.com/highcharts': 1}
+CRITICAL:root:分界线
+CRITICAL:root:d3:::{}
+CRITICAL:root:d3:::{'mike bostock': 1}
+CRITICAL:root:d3:::{}
+CRITICAL:root:分界线
+CRITICAL:root:pig:::{'pig0.12': 1, 'pig0.15': 1, 'pig0.16': 3, 'pigversion': 1, 'pig4cloud': 1}
+CRITICAL:root:pig:::{}
+CRITICAL:root:pig:::{'http://pig.apache.org/docs/r0.10.0/start.html': 1}
+CRITICAL:root:分界线
+CRITICAL:root:saas:::{}
+CRITICAL:root:saas:::{'it': 2, 'sap': 1, 'erp': 1}
+CRITICAL:root:saas:::{}
+CRITICAL:root:分界线
+CRITICAL:root:locust:::{'locust1': 1, 'locust4j': 1}
+CRITICAL:root:locust:::{}
+CRITICAL:root:locust:::{'https://www.locust.io/': 3, 'https://docs.locust.io/en/stable/api.html': 1, 'https://locust.io/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:rake:::{}
+CRITICAL:root:rake:::{}
+CRITICAL:root:rake:::{}
+CRITICAL:root:分界线
+CRITICAL:root:riak:::{'riak2': 10, 'riak1': 3, 'riak3': 4, 'riak.1': 3}
+CRITICAL:root:riak:::{}
+CRITICAL:root:riak:::{'http://basho.com/riak/': 1, 'http://kexl908.blog.51cto.com/605006/832887': 1, 'http://docs.basho.com/riak/latest/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:paas:::{}
+CRITICAL:root:paas:::{}
+CRITICAL:root:paas:::{}
+CRITICAL:root:分界线
+CRITICAL:root:mongodb:::{'mongodb1': 1, 'mongodb2': 1, 'mongodb3': 1, 'mongodb3.6': 1, 'mongodb3.4': 3, 'mongodb3.0': 1}
+CRITICAL:root:mongodb:::{'eliot horowitz': 3, 'eliot horowitz ': 1, 'gnu ': 1, 'cto dwight merriman': 1}
+CRITICAL:root:mongodb:::{'https://www.mongodb.com': 1, 'https://www.mongodb.com/download-center/community': 1, 'https://docs.mongodb.com/master/tutorial/install-mongodb-on-ubuntu/?_ga=2.248935234.453417702.1528768122-1832599284.1528768122': 1, 'http://mongodb.github.io/mongo-java-driver/3.9/driver/getting-started/quick-start/': 1, 'https://www.mongodb.com/': 1, 'https://www.mongodb.com/download-center?jmp=nav#community': 1, 'https://www.mongodb.com/download-center#community': 1}
+CRITICAL:root:分界线
+CRITICAL:root:powershell:::{'powershell3.0': 1}
+CRITICAL:root:powershell:::{'jeffrey snover': 1}
+CRITICAL:root:powershell:::{}
+CRITICAL:root:分界线
+CRITICAL:root:bigquery:::{}
+CRITICAL:root:bigquery:::{}
+CRITICAL:root:bigquery:::{}
+CRITICAL:root:分界线
+CRITICAL:root:hadoop:::{'hadoop2.0': 15, 'hadoop2': 1, 'hadoop020.2': 1, 'hadoop023': 1, 'hadoop1.0': 10, 'hadoop0.20': 2, 'hadoop3.0': 1, 'hadoop2.7': 5, 'hadoop1.2': 1}
+CRITICAL:root:hadoop:::{'doug cutting': 6, 'doug cutting ': 1}
+CRITICAL:root:hadoop:::{'http://hadoop.apache.org/releases.html': 1, 'http://hadoop.apache.org/': 3, 'http://archive.apache.org/dist/hadoop/core/hadoop-2.7.5/': 1, 'http://www.apache.org/': 2, 'http://hadoop.apache.org/common/docs/': 1, 'http://hadoop.apache.org/common/docs/r0.18.2/': 1, 'http://hadoop.apache.org/common/docs/r0.18.2/cn/': 1, 'http://hadoop.apache.org/common/docs/r0.20.2/cn/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:ibeacon:::{}
+CRITICAL:root:ibeacon:::{}
+CRITICAL:root:ibeacon:::{}
+CRITICAL:root:分界线
+CRITICAL:root:cartodb:::{}
+CRITICAL:root:cartodb:::{'javierde la torre': 2}
+CRITICAL:root:cartodb:::{}
+CRITICAL:root:分界线
+CRITICAL:root:docker:::{'docker1': 4, 'docker2': 5, 'docker18.09': 1, 'docker1.3': 1}
+CRITICAL:root:docker:::{'ceo': 1, 'solomon hykes': 1, 'solomon hykes ': 2}
+CRITICAL:root:docker:::{'https://docs.docker.com/': 1, 'https://hub.docker.com': 1, 'https://www.docker.com/products/docker-toolbox': 2}
+CRITICAL:root:分界线
+CRITICAL:root:flyway:::{}
+CRITICAL:root:flyway:::{}
+CRITICAL:root:flyway:::{}
+CRITICAL:root:分界线
+CRITICAL:root:foreman:::{'foreman1.5': 1, 'foreman1.6': 1}
+CRITICAL:root:foreman:::{}
+CRITICAL:root:foreman:::{}
+CRITICAL:root:分界线
+CRITICAL:root:genymotion:::{'genymotion2.8': 1, 'genymotion2.9': 1, 'genymotion3.0': 3}
+CRITICAL:root:genymotion:::{}
+CRITICAL:root:genymotion:::{'https://www.genymotion.com/': 3, 'https://www.genymotion.com/plugins/': 1, 'https://www.genymotion.com/download/': 2, 'http://www.genymotion.net/': 1, 'https://www.genymotion.com': 2, 'https://www.genymotion.com/account/login': 1, 'https://www.genymotion.com/download': 1}
+CRITICAL:root:分界线
+CRITICAL:root:gulp:::{'gulp3': 8, 'gulp4': 7, 'gulp4.0': 2, 'gulp3.9': 1}
+CRITICAL:root:gulp:::{}
+CRITICAL:root:gulp:::{'http://www.gulpjs.com.cn/': 1, 'https://www.npmjs.com/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:moco:::{}
+CRITICAL:root:moco:::{'oracle duke': 1}
+CRITICAL:root:moco:::{'https://blog.csdn.net/hustzw07/article/details/79598945': 1, 'https://github.com/dreamhead/moco': 1, 'https://github.com/dreamhead/moco/blob/master/moco-doc/usage.md': 1, 'https://github.com/dreamhead/moco/blob/master/moco-doc/apis.md#json-response': 1, 'https://github.com/dreamhead/moco/blob/master/moco-doc/junit.md': 1, 'https://blog.csdn.net/vite_s/article/details/54583243': 1, 'https://blog.csdn.net/houyaowei/article/details/51444783': 1, 'https://www.jianshu.com/p/dd17342d497b': 1, 'https://github.com/dreamhead/moco/blob/master/moco-doc/cmd.md': 1}
+CRITICAL:root:分界线
+CRITICAL:root:packer:::{}
+CRITICAL:root:packer:::{}
+CRITICAL:root:packer:::{'https://www.packer.io/downloads.html': 1, 'https://releases.hashicorp.com/packer/0.12.3/packe_0.12.3_darwin_amd64.zip': 1}
+CRITICAL:root:分界线
+CRITICAL:root:zipkin:::{'zipkin2': 3}
+CRITICAL:root:zipkin:::{}
+CRITICAL:root:zipkin:::{'https://zipkin.io': 1, 'https://zipkin.io/pages/quickstart.html': 1}
+CRITICAL:root:分界线
+CRITICAL:root:axios:::{'axios1.0': 1}
+CRITICAL:root:axios:::{'ceo': 1}
+CRITICAL:root:axios:::{'http://www.axios-js.com/zh-cn/docs/index.html': 1, 'http://www.axios-js.com/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:pinpoint:::{'pinpoint185demo': 1, 'pinpoint1.5': 1, 'pinpoint2': 2, 'pinpoint163': 1, 'pinpoint1.6': 3, 'pinpoint1.8': 1}
+CRITICAL:root:pinpoint:::{}
+CRITICAL:root:pinpoint:::{'http://naver.github.io/pinpoint/': 1, 'http://10.168.56.135:28080/#/main': 2}
+CRITICAL:root:分界线
+CRITICAL:root:dagger:::{'dagger2': 193, 'dagger1': 13, 'dagger2demo': 1, 'dagger2.1': 5, 'dagger2.11': 1}
+CRITICAL:root:dagger:::{}
+CRITICAL:root:dagger:::{'https://google.github.io/dagger//android.html': 1}
+CRITICAL:root:分界线
+CRITICAL:root:dapper:::{}
+CRITICAL:root:dapper:::{}
+CRITICAL:root:dapper:::{'https://code.google.com/p/dapper-dot-net/': 1, 'http://dapper-tutorial.net/': 1}
+CRITICAL:root:分界线
+CRITICAL:root:elixir:::{}
+CRITICAL:root:elixir:::{'jos': 1}
+CRITICAL:root:elixir:::{'https://www.elixir-lang.org/': 1, 'https://elixir-lang.org': 1, 'https://elixir-lang.net': 1}
+CRITICAL:root:分界线
+CRITICAL:root:enzyme:::{}
+CRITICAL:root:enzyme:::{}
+CRITICAL:root:enzyme:::{}
+CRITICAL:root:分界线
+CRITICAL:root:phoenix:::{'phoenix4.7': 2, 'phoenix4.8': 1, 'phoenix4.9': 2, 'phoenix2': 2, 'phoenix3': 2, 'phoenix3.1': 2, 'phoenix5.0': 3}
+CRITICAL:root:phoenix:::{}
+CRITICAL:root:phoenix:::{'http://phoenix.apache.org/index.html': 1, 'http://phoenix.apache.org/language/index.html': 2, 'https://phoenix.apache.org/phoenix_spark.html': 1}
+CRITICAL:root:分界线
+CRITICAL:root:elm:::{'elm1': 1, 'elm2': 1}
+CRITICAL:root:elm:::{}
+CRITICAL:root:elm:::{}
+CRITICAL:root:分界线
+CRITICAL:root:graphql:::{}
+CRITICAL:root:graphql:::{'ee byron': 1, 'facebook': 1, ' ': 1}
+CRITICAL:root:graphql:::{'https://graphql.cn/learn/': 2, 'https://learning.getpostman.com/docs/postman/sending_api_requests/graphql/': 1, 'https://graphql.cn/': 3, 'http://spec.graphql.cn/': 3, 'http://graphql.cn/': 1, 'http://graphql.cn/learn/schema/': 2, 'https://www.graphql-java.com/': 2, 'https://github.com/graphql-java/graphql-java': 3, 'https://www.graphql-java.com/github': 1}
+CRITICAL:root:分界线
+CRITICAL:root:jump:::{}
+CRITICAL:root:jump:::{}
+CRITICAL:root:jump:::{}
+CRITICAL:root:分界线
+CRITICAL:root:rapidoid:::{}
+CRITICAL:root:rapidoid:::{}
+CRITICAL:root:rapidoid:::{}
+CRITICAL:root:分界线
+CRITICAL:root:recharts:::{}
+CRITICAL:root:recharts:::{}
+CRITICAL:root:recharts:::{'http://recharts.org': 1}
+CRITICAL:root:分界线
+CRITICAL:root:reswift:::{}
+CRITICAL:root:reswift:::{}
+CRITICAL:root:reswift:::{}

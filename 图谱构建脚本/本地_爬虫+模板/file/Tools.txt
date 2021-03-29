@@ -1,0 +1,1191 @@
+Visualization & metrics
+IE6 end of life
+ASP.NET MVC
+Next-generation test tools
+Subversion
+Distributed version control
+Google Wave
+Language workbenches
+Polyglot development environments
+Squid
+Message buses without smarts
+Next-gen test tools
+Neo4j
+mongoDB
+NoSQL
+RDF triple stores
+Restfulie
+Visualizations for business data
+GitHub
+Cross mobile platforms
+ESB
+Intentional
+Github
+Apache camel
+Next gen test tools
+Puppet
+Mercurial
+Git
+Infrastructure as code
+Splunk
+Deltacloud
+Vagrant
+WCF HTTP
+API management services
+Caching reverse proxies
+Relic beyond Rails
+TLB
+Powershel
+Selenium 2 testing of mobile websites
+jQuery Mobile
+Backbone.js
+Sonar
+Open source bI tools
+Gradle
+Cross platform mobile toolkits
+VCS with “implicit workflow”
+Code in configuration
+Client-side MVC
+FPM
+Frank
+Jade
+JavaScript micro frameworks
+JavaScript tooling
+Log aggregation & indexing
+NuGet
+Polyglot persistence
+PowerShell
+PSake
+Logic-free markup
+Open source BI/ETL tools
+Riak
+Highcharts
+D3
+Apache Pig
+SaaS performance testing tools
+Dependency Structure Matrices
+Locust
+Rake for Java & .Net
+Crazy Egg
+Zipkin
+Zucchini
+GemJars
+Light Table
+Riemann
+CartoDB
+Chaos Monkey
+Docker
+Flyway
+Foreman
+GenyMotion
+Go CD
+Grunt.js
+Gulp
+Moco
+Packer
+Pact & Pacto
+Prototype On Paper
+Protractor for AngularJS
+SnapCI
+Snowplow Analytics & Piwik
+Visual regression testing tools
+Appium
+Consul
+Flume
+Hosted solutions for testing iOS
+leaflet.js
+Mountebank
+Papertrail
+Roslyn
+Spark
+Swagger
+Xamarin
+Boot2docker
+Brighter
+Cursive
+GitLab
+Hamms
+IndexedDB
+Polly
+REST-assured
+ZAP
+Apache Kafka
+Blackbox
+Bokeh/Vega
+Gor
+NaCl
+Origami
+Packetbeat
+pdfmake
+PlantUML
+Prometheus
+Quick
+Security Monkey
+Browsersync
+Carthage
+Docker Toolbox
+Gitrob
+GitUp
+Sensu
+SysDig
+Concourse CI
+Espresso
+Gauge
+ievms
+Let’s Encrypt
+Pageify
+RAML
+Sleepy Puppy
+Visual Studio Code
+Load Impact
+OWASP Dependency-Check
+Serverspec
+Webpack
+Apache Flink
+Grasp
+HashiCorp Vault
+Jepsen
+LambdaCD
+Pinpoint
+Pitest
+Repsheet
+Jenkins as a deployment pipeline
+fastlane
+Galen
+JSONassert
+Pa11y
+Talisman
+Terraform
+tmate
+Android-x86
+axios
+Bottled Water
+Clojure.spec
+FBSnapshotTestcase
+Babel
+Grafana
+Buildkite
+CircleCI
+gopass
+Headless Chrome for front-end test
+jsoniter
+Scikit-learn
+Serverless Framework
+Apex
+assertj-swagger
+Cypress
+Flow
+InSpec
+Jupyter
+Kong API Gateway
+kops
+Lighthouse
+Rendertron
+Sonobuoy
+spaCy
+Spinnaker
+Spring Cloud Contract
+Appium Test Distribution
+BackstopJS
+CVXPY
+Helm
+Patroni
+WireMock
+Yarn
+ArchUnit
+cfn_nag
+Conduit
+Dependabot
+Headless Firefox
+nsp
+Parcel
+Scout2
+Sentry
+Swashbuckle for .NET Core
+AnyStatus
+AVA
+batect
+Elasticsearch LTR
+Lottie
+Stolon
+TestCafe
+Traefik
+Anka
+Cage
+Cilium
+Detekt
+Flagr
+Gremlin
+Honeycomb
+Humio
+Kubernetes Operators
+OpenAPM
+Systems
+Taurus
+Terraform provider GoCD
+Terratest
+Bitrise
+Figma
+Jib
+Loki
+Trivy
+Twistlock
+Yocto Project
+Aplas
+asdf-vm
+AWSume
+dbt
+Docker Notary
+Facets
+Falco
+in-toto
+Kubeflow
+MemGuard
+Open Policy Agent (OPA)
+Pumba
+Skaffold
+What-If Tool
+Dojo
+DVC
+Experiment tracking tools
+machine learning
+Goss
+Jaeger
+k9s
+kind
+mkcert
+MURAL
+Optimal Workshop
+Phrase
+ScoutSuite
+Visual Studio Live Share
+Apache Superset
+AsyncAPI
+ConfigCat
+Gitpod
+Gloo
+Lens
+Manifold
+Sizzy
+Snowpack
+tfsec
+Gatling
+Jekyll
+Logstash & Graylog2
+PhantomJS
+Puppet-librarian and Chef-librarian
+TestFlight & HockeyApp
+Browser-based templating
+Faraday
+Hystrix
+Icon fonts
+Octopus
+Reactive Extensions for .Net
+Snowplow Analytics
+UIAutomator
+Ansible
+Calabash
+Librarian-puppet and Librarian-Chef
+Cloud-init
+Travis for OSX/iOS
+Composer
+Gitlab
+Pact
+Postman
+CD4ML
+Crypto shredding
+Infrastructure configuration scanner
+Elasticsearch
+AWS Fargate
+EVM beyond Ethereum
+InfluxDB
+Istio
+Apache Beam
+Formik
+HiveRunner
+joi
+Ktor
+Laconia
+Puppeteer
+Reactor
+Resilience4j
+Room
+Rust
+WebFlux
+Ethical bias testing
+GraphQL for server-side resource aggregation
+Micro frontends for mobile
+Semi-supervised learning loops
+Transfer learning for NLP
+Use “remote native” processes and approaches
+ZTA
+OPA
+Argo CD
+Crowdin
+eBPF
+Firebase
+Hot Chocolate
+Hydra
+OpenTelemetry
+Snowflake
+Exposed
+GraphQL Inspector
+Karate
+Koin
+NestJS
+Sarama
+SwiftUI
+canary
+Bounded Buy
+Four key metrics
+Multi-account cloud setup
+Observability as code
+Risk-commensurate vendor strategy
+Run cost as architecture fitness function
+Secrets as a service
+Security Chaos Engineering
+Versioning data for reproducible analytics
+Apache Atlas
+Shared VPC
+TICK Stack
+acs-engine
+Archery
+git-secrets
+LocalStack
+Mermaid
+Prettier
+Rider
+Snyk
+UI dev environments
+VS Live Share
+Camunda
+Nameko
+Polly.js
+PredictionIO
+Q#
+SAFE stack
+Spek
+troposphere
+WebAssembly
+MMKV
+MockK
+TypeScript
+mysql
+oracle
+spring
+mybatis
+nginx
+apache
+redis
+mongodb
+fastDFS
+zookeeper
+Dubbo
+shardingsphere
+druid
+commons
+cxf
+hibernate
+jpa
+quartz
+mina
+wwf
+mef
+rx
+wcf
+asp.net web service
+asp.net web api
+.net remoting
+asp.net runtime
+asp.net web page
+asp.net web forms
+asp.net mvc
+razor
+routing
+silverlight
+sharepoint
+windows forms
+windows persentation foundation
+wpf
+xaml
+console
+windows service
+estration
+Preflight builds
+thinkphp
+laravel
+beego
+gin
+bootstrap
+jquery
+vue
+vue2
+vuex
+vue-rooter
+reactjs
+react
+redux
+redux-form
+redux-rooter
+beetle
+thymeleaf
+webpack
+npm
+node.js
+iview
+echarts
+flex
+unity3D
+kotlin
+ios
+object-c
+swift
+eclipse
+idea
+netbeans
+phpstorm
+zend
+upupw
+subline
+webstorm
+android studio
+xcode
+navicat
+mysqlwordbench
+sqlDeveloper
+sqlplus
+redisDesktopManager
+hive
+HUE
+sqlserver
+db2
+sybase
+cassandra
+selenium
+jmeter
+loadrunner
+postman
+appiumforandorid
+appiumforIOS
+firebug
+minisniffer
+fiddler
+charles
+xshell
+xftp
+secureCRT
+zabbix
+shell
+crontab
+haproxy
+lvs
+f5
+redware
+jenkins
+maven
+gradle
+cvs
+svn
+git
+team foundation server
+docker
+vsphere
+kvm
+puppet
+ansible
+saltstack
+wireshark
+memcached
+solr
+activemq
+rocketmq
+rabbitmq
+kafka
+tomcat
+IIS
+fastdfs
+shiro
+ssl
+vmware
+rhevm
+opennebula
+nimbus
+eucalyptus
+hdfs
+hadoop common
+mapreduce
+hbase
+pig
+sqoop
+mahout
+chukwa
+ambari
+hcatalog
+cloudera
+cloudera manager
+CDH
+flume
+impala
+hue
+spark
+storm
+talend
+openRefine
+Datacleaner
+RapidMiner
+IBM SPSS Modeler
+Teradata
+Tableau
+silk
+chartio
+IBM waston analytics
+ETL
+informatica
+SSIS
+kettle
+powerdesiger
+staruml
+SOA
+OO
+OOA
+oop
+visio
+xmind
+mindmanager
+ppt
+axure
+grandle
+json
+gson
+fastjson
+jackson
+google protobuf
+jsp
+servlet
+cookie
+session
+cobar
+mycat
+stom
+rmi
+hessian
+thrift
+base
+2pc
+jms
+logback
+slf4j
+common logging
+autofac
+ninject
+winsor
+nservicebus
+masstransit
+log4net
+sqlite
+nhibernate
+ravenDB
+azure document DB
+ncache
+fantom
+blend
+Vowpal Wabbit
+MultiBoost
+Shogun
+Mahout
+Weka
+Mallet
+JSAT
+Python
+PyBrain
+nltk
+Theano
+Pylearn2
+MDP
+Orange
+milk
+pyml
+Numpy
+Julia
+Matlab
+MLlib
+Hurricane
+SewedBlAS
+Storm
+Heron
+Algorithms
+Generalized Linear Regression
+Gaussian Processes
+Isotonic Regression
+SVM
+Linear and Quadratic Discriminant Analysis
+Decision Trees
+K Nearest Neighbors
+Naive Bayes
+Neural Networks
+Ensemble Methods
+Kernel Approximation
+Adaboost
+Unsupervised Learning
+K-Means
+Gaussian Mixture Models
+Spectral Clustering
+Manifold Learning
+Hierarchical Clustering
+Affinity Propagation
+DBSCAN
+Birch
+Principal Component Analysis
+Linear Discriminant Analysis
+Locally linear embedding
+Laplacian Eigenmaps
+Isomap
+Spectral Embedding
+Feature Agglomeration
+Markov Decision Processes
+Q-Learning
+Sarsa
+A-Learning
+CNN
+Restricted Boltzmann Machines
+RNN
+Long Short Term Memory
+Cross-validation
+Grid Search
+Model Evaluation
+Model Persistence
+Validation Curves
+Caffe2/Caffe
+Torch
+Chainer
+OpenBLAS
+CUDA
+CUDNN
+Bazel
+Protobuf
+OpenCV
+Bash
+React
+PaddlePaddle
+CPU
+GPU(CUDA)
+FPGA
+HD Map
+OpenDrive
+Simulation
+Simulink
+UE4
+OTA
+DuerOS
+Localization
+Perception
+Low-level Vision
+Smoothing Curves
+Vehicle Kinematics
+Station-time 2D Model
+Dynamic Programming
+Quadratic Programming
+Smoothing Spline
+A*
+Bayesian
+Markov Process
+Reinforcement Learning
+Sampling Based Motion Planning
+Optimization Based Motion Planning
+ComputerScience:Parallel Programming
+For Planning Focused:Basic Motion Planning Technique
+Computation Geometry
+Basic Control Theory
+LQR
+MPC
+PID Basic Control Theory
+Deep Learning
+CV
+Convolutional-LSTM
+LRCN
+Computing Unit
+LiDAR
+Radar
+Ultrasonic Radar
+GPS
+IMU
+other perception sensors
+CAN Card
+HMI Device
+V2X Device
+Black Box
+Protocol
+Can
+Lin
+FlexRay
+AUTOSAR
+Flink
+Drill
+ZooKeeper
+HDFS
+tachyon
+Ignite
+Parquet
+ORC
+CarbonData
+Kudu
+HBase
+Mesos
+Oozie
+Azkaban
+Spark Mlib
+DeepLearning4J
+MxNet
+CNTK
+Amazon Machine Learning
+DMTK
+Apache Eagle 
+Cloudera Manager
+Ambari
+Kylin
+Impala
+Spark SQL
+DataFrame
+DataSet
+ELK
+ElasticSearch
+Logstash
+Kibana
+RocketMQ
+ZeroMQ
+ActiveMQ
+RabbitMQ
+JStorm
+Spark Streaming
+Fink
+Scribe
+Sqoop
+MATLAB
+SPSS
+SAS
+D3.js
+Excle
+Zeppelin
+Hue
+paxos
+raft
+gossip
+IaaS
+Zookeeper
+Chukwa
+Whirr
+Bigtop
+HCatalog
+Cassandra
+Hama
+Giraph
+Crunch
+HTML
+HML5
+CSS
+CSS3
+Sass
+Stylus
+PhotoShop
+Paint.net
+Fireworks
+GIMP
+Sketch
+Underscore
+Mootools
+Prototype.js
+YUI3
+ExtJS
+KISSY
+Backbone
+KnockoutJS
+Emberjs
+Batarang
+Bootstrap
+Semantic UI
+Juice UI
+Web Atoms
+Polymer
+Dhtmlx
+qooxdoo
+Brick
+WebDriver
+Protractor
+Karma Runner
+Sahi
+phantomjs
+SourceLabs
+BrowserStack
+Ant
+GYP
+Grunt
+Yeoman
+FIS
+Mod
+LABjs
+SeaJS
+CSRF
+XSS
+CSP
+Same-origin policy
+ADsafe
+Caja
+Sandbox
+Zeptojs
+iScroll
+V5
+Sencha Touch
+Cordova
+Ionic
+W3C Mobile Web Initiative
+W3C mobileOK Checker
+Open Mobile Alliance
+SVG
+Canvas
+VML
+Raphaël
+Snap.svg
+DataV
+CreateJS
+KineticJS
+WebGL
+Three.JS
+dom
+ajax
+reactivex
+bower
+commonjs
+jsx
+handlebars
+mustache
+minify
+uglify
+cleancss
+gzip
+pagespeed
+lighthttpd
+postgresql
+openssl
+regex
+sregex
+squid
+varnish
+GlusterFS
+MooseFS
+MogileFS
+FastDFS
+OpenAFS
+GFS
+KFS
+TFS
+MetaQ
+NSQ
+MemcacheQ
+HTTPSQS
+Resque
+dns
+ats
+squit
+Scrum
+Crystal
+FDD
+PHP
+AWS SQS
+AWS SWS
+AKKA
+Thrift
+CRM
+ERP
+cloudstack
+AWS RDS
+MySQL
+PostgreSQL
+DynamoDB
+Memcached
+Redis
+ElastiCache
+Solr
+AWS Kinesis
+Spark ML
+scikit learn
+AWS ML
+Firewall
+DDoS
+iptables
+WAF
+IDS/IPS
+VPN
+LXC
+RunC
+Rkt
+Systemd-nspawn
+Garden
+Vagga
+VMWare Photon
+gVisor
+Pouch Container
+Kata Containers
+Sysdig Monitor
+cAdvisor
+Weave Scope
+TICK-Stack
+Docker-Alertd
+Cockpit
+Magnum
+Boot2Docker
+MaestroNG
+Crane
+Marathon
+Compose
+Openshift Origin
+K3s
+SwarmKit
+Nebula
+Dokku
+Flynn
+Pipework
+Flannel
+Calico
+Weave
+Kubenet
+Contiv
+OpenContrail
+MacVlan
+Canal
+Romana
+Submariner
+Clair
+Dagda
+OpenSCAP
+Notary
+SELinux
+AppArmor
+Convoy
+REX-Ray
+Netshare
+OpenStorage
+Apache OpenWhisk
+KNative
+OpenFaaS
+Kubeless
+Fn
+Riff
+Nuclio
+AWS SAM
+Flogo
+Spring Cloud Function
+LogStash
+Kabana
+Fluent
+DropWizard
+JSON
+cPickle
+protobuf
+GoogleAPI
+ZoomEyeMap
+Nagios
+Zabbix
+Cacti
+SaltStack
+pssh/dsh
+Fabric
+virsh
+CloudStack
+OpenNebula
+Zstack
+rocksdb
+timesten
+cati
+nigos
+TDDL
+Cobar
+OneProxy
+Atlas
+mango
+Mycat
+fabric
+slor
+Common
+ISR
+Driver
+DMA
+I2C
+OS
+uCOS
+Contiki
+TinyOS
+VXWorks
+FreeRTOS
+mbed OS
+emOS
+Salvo
+MQX
+RIOT
+rt-thread
+PMD
+Infer
+findbugs
+AndroidLint
+CheckStyle
+iOS
+scanbuild
+oclint
+Jacoco
+EMMA
+gcov
+Macaca
+MonkeyTalk
+RobotFramework
+Robotium
+Uiautomator
+Selendroid
+Instrumentation
+MonkeyRunner
+Cafe
+WDA
+XCUITest
+KIF
+Web
+AppCrawler
+CrashMonkey4Android
+CrashMonkey4iOS
+SwiftMonkey
+JMeter
+nGrinder
+SystemTap
+DTrace
+Perf
+FlameGraph
+TraceView
+Instruments
+Frida
+Cydia Substrate
+Drozer
+apktool
+dex2jar
+XPosed
+IDB
+otool
+lldb
+iExplorer
+libimobiledevice
+BurpSuite
+WVS
+Jenkins
+Travis CI
+mvn
+Cocoapods
+xcodebuild
+xcrun
+plist
+Android Emulator
+STF
+Appium Grid
+WebPageTest
+Selenium Grid
+Genymotion
+BlueStacks
+MQC
+MTC
+Testin
+SauceLabs
+Confluence
+Wiki
+GitBook
+TesterHome
+Jira
+Redmine
+BugFree
+TestLink
+JVM
+Swift
+Xcode
+AppCode
+Charles
+Wireshark
+Reveal
+Alcatraz
+VVDocument
+XVim
+FuzzyAutocompletePlugin
+KSImageNamed-Xcode
+xScope
+ImageOptim
+Dash
+Deploymate
+FauxPas
+PaintCode
+xcode-select
+nomad
+xctool
+Bot
+Bugly
+Crashlytics
+BugHD
+Google Analytics
+MTA
+Flurry
+App Annie
+TestFlight
+FIR
+Common Lisp
+Haskell
+Erlang
+LISP
+Logo
+Prolog
+COBOL
+Visual Basic
+Smalltalk
+Eiffel
+Delphi/Object Pascal
+Fortran
+BASIC
+Pascal
+D
+ECMAScript
+Perl
+Adobe Air
+windows phone
+Java VM
+Ceylon
+Jython
+Kawa
+Lua
+JSP
+ASP
+Shell
+sh
+csh
+ksh
+sed
+awk
+bash
+Tcl/Tk
+VBScript
+Dart
+JScript
+ActionScript
+Ada
+Forth
+AAuto
+ALGOL
+Intel
+AT&T
+Curl
+SGML
+XML
+XSLT
+SSML
+XHTML
+DHTML
+XML Schema
+LINQ
+T-SQL
+XQuery
+PLSQL
+Visual FoxPro
+XSL
+AutoCAD
+FORTRAN
+Mathematica

@@ -1,0 +1,4 @@
+ssh
+subversion
+squid
+mongodb

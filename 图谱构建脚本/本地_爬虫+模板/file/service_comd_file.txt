@@ -1,0 +1,1974 @@
+atd:::{}
+atd:::{}
+分界线
+dovecot:::{}
+dovecot:::{}
+分界线
+haldaemon:::{}
+haldaemon:::{}
+分界线
+irda:::{}
+irda:::{}
+分界线
+ntpd:::{}
+ntpd:::{}
+分界线
+portmap:::{}
+portmap:::{}
+分界线
+sshd:::{}
+sshd:::{}
+分界线
+vsftpd:::{}
+vsftpd:::{}
+分界线
+xinetd:::{}
+xinetd:::{}
+分界线
+yum-updatesd:::{}
+yum-updatesd:::{}
+分界线
+ssl:::{}
+ssl:::{}
+分界线
+hbsae:::{}
+hbsae:::{}
+分界线
+acpid:::{}
+acpid:::{}
+分界线
+chargen-dgram:::{}
+chargen-dgram:::{}
+分界线
+cpuspeed:::{}
+cpuspeed:::{}
+分界线
+daytime-dgram:::{}
+daytime-dgram:::{}
+分界线
+echo-stream:::{}
+echo-stream:::{}
+分界线
+gpm:::{}
+gpm:::{}
+分界线
+ip6tables:::{}
+ip6tables:::{}
+分界线
+nfs:::{}
+nfs:::{}
+分界线
+sendmail:::{}
+sendmail:::{}
+分界线
+squid:::{}
+squid:::{}
+分界线
+postgresql:::{}
+postgresql:::{}
+分界线
+postfix:::{}
+postfix:::{}
+分界线
+smartsense:::{}
+smartsense:::{}
+分界线
+store:::{}
+store:::{}
+分界线
+drpc:::{}
+drpc:::{}
+分界线
+tableau:::{}
+tableau:::{}
+分界线
+pulse:::{}
+pulse:::{}
+分界线
+anacron:::{}
+anacron:::{}
+分界线
+autofs:::{}
+autofs:::{}
+分界线
+capi:::{}
+capi:::{}
+分界线
+chargen-stream:::{}
+chargen-stream:::{}
+分界线
+firstboot:::{}
+firstboot:::{}
+分界线
+httpd:::{}
+httpd:::{}
+分界线
+irqbalance:::{}
+irqbalance:::{}
+分界线
+bluetooth:::{}
+bluetooth:::{}
+分界线
+restorecond:::{}
+restorecond:::{}
+分界线
+rpcidmapd:::{}
+rpcidmapd:::{}
+分界线
+webmin:::{}
+webmin:::{}
+分界线
+winbind:::{}
+winbind:::{}
+分界线
+wine:::{}
+wine:::{}
+分界线
+wlan:::{}
+wlan:::{}
+分界线
+mon:::{}
+mon:::{}
+分界线
+netplugd:::{}
+netplugd:::{}
+分界线
+nfsfs:::{}
+nfsfs:::{}
+分界线
+nifd:::{}
+nifd:::{}
+分界线
+nscd:::{}
+nscd:::{}
+分界线
+numlock:::{}
+numlock:::{}
+分界线
+alsasound:::{}
+alsasound:::{}
+分界线
+auditd:::{}
+auditd:::{}
+分界线
+crond:::{}
+crond:::{}
+分界线
+cvs:::{}
+cvs:::{}
+分界线
+hplip:::{}
+hplip:::{}
+分界线
+isdn:::{}
+isdn:::{}
+分界线
+atd:::{'at': 3}
+atd:::{}
+分界线
+dovecot:::{}
+dovecot:::{'/etc/     //': 1, '/etc/postfix': 1, '/etc/dovecot': 1, '/etc/dovecot/': 1}
+分界线
+haldaemon:::{}
+haldaemon:::{}
+分界线
+irda:::{}
+irda:::{}
+分界线
+ntpd:::{'ntpdate': 8, 'ntpd': 2}
+ntpd:::{'/etc/ntp.conf': 3, '/etc/sysconfig/ntpd': 1}
+分界线
+portmap:::{'portmap': 1, 'showmount': 1}
+portmap:::{}
+分界线
+sshd:::{}
+sshd:::{}
+分界线
+vsftpd:::{'load': 1}
+vsftpd:::{'/etc/vsftpd/vsftpd.conf': 3, '/': 3, '/direcotry    ': 1, '/directory ': 1, '/etc/vsftpd/chroot': 2, '/etc/vsftpd/': 1, '/etc/vsftpd/westos auth required pam': 1, '/etc/vsftpd/westos ': 1, '/ftphome/': 1, '/etc': 2, '/mnt/wanwei': 1}
+分界线
+xinetd:::{}
+xinetd:::{'/etc/xinetd.conf': 4, '/etc/xinetd.d': 5}
+分界线
+yum-updatesd:::{}
+yum-updatesd:::{}
+分界线
+ssl:::{}
+ssl:::{}
+分界线
+hbsae:::{}
+hbsae:::{}
+分界线
+acpid:::{}
+acpid:::{}
+分界线
+chargen-dgram:::{}
+chargen-dgram:::{}
+分界线
+cpuspeed:::{}
+cpuspeed:::{}
+分界线
+daytime-dgram:::{}
+daytime-dgram:::{}
+分界线
+echo-stream:::{}
+echo-stream:::{}
+分界线
+gpm:::{}
+gpm:::{}
+分界线
+ip6tables:::{}
+ip6tables:::{}
+分界线
+nfs:::{'exportfs': 4, 'showmount': 2, 'umount': 1}
+nfs:::{'/etc/exports': 6, '/data /mnt ': 1, '/data /mnt': 1, '/etc/rc.local': 1, '/data  ': 1, '/data /mntmount.nfs': 2, '/data failed': 1, '/data': 2, '/etc/sysconfig/nfs': 3, '/data /mnt/mount.nfs': 1, '/etc/exports ': 1, '/etc/sysconfig/iptables': 1, '/dev/zero of': 1, '/mnt/home bs': 1, '/etc/sysconfig/nfs ': 1}
+分界线
+sendmail:::{}
+sendmail:::{'/etc/mail/sendmail.mc': 2}
+分界线
+squid:::{'cmd': 1, 'squid': 1}
+squid:::{'/configure ': 1, '/usr/local/aquid ': 1, '/etc/ ': 1, '/dev/zero of': 2, '/var/www/html/': 2, '/var/named': 1}
+分界线
+postgresql:::{'psql': 2, 'service': 1}
+postgresql:::{}
+分界线
+postfix:::{'ls': 3, 'postfix': 3, 'helo': 3, 'q': 3, 'setup': 1, 'make': 1}
+postfix:::{'/etc/postfix/virtual': 1, '/etc/postfix': 5, '/etc/postfix/sql/mysql': 8, '/home/vmail/': 1, '/ete/postfix/': 1, '/etc/postfix/main.cf': 1, '/etc/dovecot': 1, '//': 1}
+分界线
+smartsense:::{}
+smartsense:::{}
+分界线
+store:::{}
+store:::{}
+分界线
+drpc:::{}
+drpc:::{}
+分界线
+tableau:::{}
+tableau:::{}
+分界线
+pulse:::{}
+pulse:::{}
+分界线
+anacron:::{'anacron': 2, 'nice': 2}
+anacron:::{'/etc/anacrontab': 2, '/': 2, '/etc/anacrontab ': 1, '/bin/sh path': 1, '/sbin': 1, '/bin': 1, '/usr/sbin': 1, '/usr/bin // ': 1, '/etc/cron.daily': 1, '/etc/cron.hourly': 1, '/usr/sbin/anacron ': 1, '/usr/sbin/logrotate': 1, '/etc/logrotate.conf ': 1, '/etc/logrotate.d': 1}
+分界线
+autofs:::{'mount': 4}
+autofs:::{'/nfs': 1, '/etc/auto.nfs': 1, '/root/auth.smb ': 1, '/': 3, '/data/test': 1, '/data/tools': 1, '/nfsdata ': 1, '/data/nfsdata ': 1, '/nfsdata': 2, '/etc/auto.master.d/': 1, '/share /etc/auto.name      /': 1, '/share         ': 1, '/share      ': 1, '/etc/auto.master  ': 1, '/dev/cdrom    ': 1, '/etc/auto.master': 1}
+分界线
+capi:::{}
+capi:::{}
+分界线
+chargen-stream:::{}
+chargen-stream:::{}
+分界线
+firstboot:::{'firstboot': 1}
+firstboot:::{}
+分界线
+httpd:::{'cmd': 1}
+httpd:::{'/etc/httpd/conf/httpd.conf ': 1, '/etc/httpd/conf.d/.conf': 1, '/etc/httpd/modules ': 1, '/etc/log/httpd/ ': 1, '/var/www/html ': 1, '/etc/httpd/conf/httpd.conf': 1}
+分界线
+irqbalance:::{}
+irqbalance:::{}
+分界线
+bluetooth:::{}
+bluetooth:::{}
+分界线
+restorecond:::{}
+restorecond:::{}
+分界线
+rpcidmapd:::{}
+rpcidmapd:::{}
+分界线
+webmin:::{'wget': 1, 'netstat': 1}
+webmin:::{}
+分界线
+winbind:::{}
+winbind:::{}
+分界线
+wine:::{'wine': 5, 'yum': 1}
+wine:::{}
+分界线
+wlan:::{}
+wlan:::{}
+分界线
+mon:::{}
+mon:::{}
+分界线
+netplugd:::{}
+netplugd:::{'/etc/netplug.d/netplug': 2}
+分界线
+nfsfs:::{}
+nfsfs:::{}
+分界线
+nifd:::{}
+nifd:::{}
+分界线
+nscd:::{'ping': 1, 'nscd': 1, 'strace': 1}
+nscd:::{'/etc/nscd.conf': 4, '//docs.redhat.com/docs/en': 1, '/etc/nscd.conf ': 1, '/etc/passwd': 1}
+分界线
+numlock:::{}
+numlock:::{}
+分界线
+alsasound:::{}
+alsasound:::{}
+分界线
+auditd:::{}
+auditd:::{'/etc/audit/rules.d/audit.rules': 1, '/etc/audit/auditd.conf': 1}
+分界线
+crond:::{'crontab': 2, 'cronttab': 1, 'crond': 2, 'at': 1}
+crond:::{'/hello.log': 1}
+分界线
+cvs:::{'cvs': 13, 'checkout': 1, 'cp': 1}
+cvs:::{}
+分界线
+hplip:::{}
+hplip:::{}
+分界线
+isdn:::{}
+isdn:::{}
+分界线
+lvm2-monitor:::{}
+lvm2-monitor:::{}
+分界线
+mdmonitor:::{}
+mdmonitor:::{}
+分界线
+messagebus:::{}
+messagebus:::{}
+分界线
+mysqld:::{'sql': 1, 'safe': 1}
+mysqld:::{}
+分界线
+nfslock:::{}
+nfslock:::{}
+分界线
+rdisc:::{}
+rdisc:::{}
+分界线
+readahead_early:::{}
+readahead_early:::{}
+分界线
+readahead_later:::{}
+readahead_later:::{}
+分界线
+lmsensors:::{}
+lmsensors:::{}
+分界线
+mailman:::{}
+mailman:::{'/etc/lib/mailman/mailman/mm': 1, '/etc/postfix/aliases': 1, '/usr/local/mailman/data/aliases virtual': 1, '/etc/postfix/mysql/mysql': 1, '/usr/local/mailman/data/virtual': 1}
+分界线
+mandi:::{}
+mandi:::{}
+分界线
+mdadm:::{}
+mdadm:::{}
+分界线
+mdnsresponder:::{}
+mdnsresponder:::{}
+分界线
+tmdns:::{}
+tmdns:::{}
+分界线
+apmd:::{'midnight': 1}
+apmd:::{}
+分界线
+avahi-daemon:::{}
+avahi-daemon:::{}
+分界线
+daytime-slream:::{}
+daytime-slream:::{}
+分界线
+echo-dgram:::{}
+echo-dgram:::{}
+分界线
+hidd:::{}
+hidd:::{}
+分界线
+iptables:::{'ping': 1, 'list': 1, 'iptables': 5, 'save': 3, 'restore': 1}
+iptables:::{'/var/log/message': 1, '/etc/rsyslog.conf': 1, '/etc/syslog.conf': 1, '/etc/sysconfig/iptabels': 1, '/': 1, '/etc/sysconfig/iptabels ': 1}
+分界线
+kudzu:::{}
+kudzu:::{}
+分界线
+mcstrans:::{}
+mcstrans:::{}
+分界线
+mdmpd:::{}
+mdmpd:::{}
+分界线
+microcode _ctl:::{}
+microcode _ctl:::{}
+分界线
+named:::{}
+named:::{}
+分界线
+netfs:::{}
+netfs:::{}
+分界线
+rpcgssd:::{}
+rpcgssd:::{}
+分界线
+rsync:::{'rsync': 24, 'cp': 3, 'scp': 2, 'rm': 1}
+rsync:::{'/home/ftp': 4, '//': 1, '/etc/rsyncd.conf': 4, '/etc/rsyncd.conf ': 1, '/teacherclubbackup/rsync': 1, '/etc': 2, '/etc/hosts': 1, '/etc/': 1, '/etc/rsync.password': 2, '/etc/rsync.passwordrsync': 1, '/etc/rsync.passwordsending incremental file listrsync': 1}
+分界线
+setroubleshoot:::{}
+setroubleshoot:::{}
+分界线
+smb:::{'secondary': 1, 'smb': 5, 'andx': 2}
+smb:::{}
+分界线
+ultrabayed:::{}
+ultrabayed:::{}
+分界线
+upsd:::{}
+upsd:::{}
+分界线
+upsmon:::{}
+upsmon:::{}
+分界线
+vncserver:::{'kill': 2, 'vncserver': 7}
+vncserver:::{}
+分界线
+network:::{}
+network:::{}
+分界线
+pcscd:::{}
+pcscd:::{}
+分界线
+psacct:::{'yum': 3}
+psacct:::{}
+分界线
+smartd:::{'chkconfigsmartdon': 1}
+smartd:::{'/etc/smartd.conf': 4}
+分界线
+syslog:::{}
+syslog:::{'/etc/syslog.conf ': 1, '/etc': 1, '/var/log': 3, '/etc/syslog.conf': 3, '/etc/rsyslog.conf': 2, '/etc/syslogd': 1, '/var/adm': 1, '/dev/console': 2, '/var/log/messages': 1, '/var/log/secure': 2, '/var/log/maillog': 2, '/var/log/cron': 2, '/var/log/spooler': 1, '/var/log/boot.log': 2, '/proc/kmsgstarted': 1, '/var/log/lastlog': 1, '/var/log/wtmp': 3, '/var/log/btmp': 1, '/usr/bin/mail': 1, '/etc/logrotate.conf/etc/logrotate.d': 1, '/etc/logrotate.conf': 1, '/etc/logrotate.d': 2, '/dev/null': 4, '/etc/cron.daily': 1, '/bin/sh/usr/sbin/logrotate/etc/logrotate.confexitvalue': 1}
+分界线
+xfs:::{'sudo': 1, 'growfs': 1}
+xfs:::{}
+分界线
+ypbind:::{'scp': 1}
+ypbind:::{}
+分界线
+oki4daemon:::{}
+oki4daemon:::{}
+分界线
+pand:::{}
+pand:::{}
+分界线
+ipsec:::{}
+ipsec:::{}
+分界线
+ipvsadmin:::{}
+ipvsadmin:::{}
+分界线
+keytable:::{}
+keytable:::{}
+分界线
+kheader:::{}
+kheader:::{}
+分界线
+lads:::{}
+lads:::{}
+分界线
+laptop mode:::{}
+laptop mode:::{}
+分界线
+leafnode:::{}
+leafnode:::{}
+分界线
+lisa:::{}
+lisa:::{}
+分界线
+rawdevices:::{}
+rawdevices:::{}
+分界线
+saned:::{}
+saned:::{}
+分界线
+shorwall:::{}
+shorwall:::{}
+分界线
+snmpd:::{'top': 1, 'snmpbulkwalk': 1}
+snmpd:::{'/': 1, '/etc/snmp/snmpd.conf': 8, '/bin/sh echo hello world echo hi there exit ': 1, '/boot': 1, '/etc/config/snmpd': 1}
+分界线
+sound:::{}
+sound:::{}
+分界线
+ssh?xinetd:::{}
+ssh?xinetd:::{}
+分界线
+subversion:::{}
+subversion:::{}
+分界线
+acon:::{}
+acon:::{}
+分界线
+acpi:::{}
+acpi:::{}
+分界线
+adsl:::{'ifconfig': 1, 'start': 1}
+adsl:::{}
+分界线
+alsa:::{}
+alsa:::{}
+分界线
+apmiser:::{}
+apmiser:::{}
+分界线
+arpwatch:::{'arpwatch': 4}
+arpwatch:::{}
+分界线
+bootparamd:::{'midnight': 1}
+bootparamd:::{'/': 2, '/var/adm/pacct': 1, '/var/adm/wtmpx': 2, '/dev': 4, '/devices': 2, '/etc/printers.conf': 1, '/etc': 1, '/etc/passwd': 1, '/etc/shadow q quot': 1, '/dev taskstat': 1}
+分界线
+canna:::{}
+canna:::{}
+分界线
+capi4linux:::{}
+capi4linux:::{}
+分界线
+cpqarrayd:::{}
+cpqarrayd:::{}
+分界线
+cpufreq:::{}
+cpufreq:::{}
+分界线
+cpufreqd:::{'cpufreqd': 1}
+cpufreqd:::{}
+分界线
+freshclam:::{'freshclam': 4}
+freshclam:::{'/etc/clamav/freshclam.conf': 1}
+分界线
+harddrake:::{}
+harddrake:::{}
+分界线
+heartbeat:::{'scp': 1}
+heartbeat:::{'/etc/ha.d heartbeat': 2}
+分界线
+hpoj:::{}
+hpoj:::{}
+分界线
+hylafax?server:::{}
+hylafax?server:::{}
+分界线
+partmon:::{}
+partmon:::{}
+分界线
+pg_autovacum:::{}
+pg_autovacum:::{}
+分界线
+pop3s:::{}
+pop3s:::{'/dev/urandom tls': 1, '/dev/urandom ': 1, '/usr/local/courier': 4}
+分界线
+cups-lpd:::{}
+cups-lpd:::{}
+分界线
+pcmcia:::{}
+pcmcia:::{}
+分界线
+pptp:::{}
+pptp:::{}
+分界线
+prelude:::{}
+prelude:::{}
+分界线
+cups:::{'su': 3}
+cups:::{'/etc/cups/printers.conf': 2}
+分界线
+devfsd:::{}
+devfsd:::{}
+分界线
+dhcpd:::{}
+dhcpd:::{'/etc/dhcpd.conf': 1}
+分界线
+diald:::{}
+diald:::{}
+分界线
+dkms:::{'depmod': 1, 'dkms': 1}
+dkms:::{}
+分界线
+dm:::{}
+dm:::{'/': 1}
+分界线
+dnbc:::{}
+dnbc:::{}
+分界线
+drakxtools-http:::{}
+drakxtools-http:::{}
+分界线
+dund:::{}
+dund:::{}
+分界线
+fam:::{}
+fam:::{}
+分界线
+finger:::{'finger': 14, 'ls': 1, 'talk': 1, 'pinky': 2}
+finger:::{}
+分界线
+ibod:::{}
+ibod:::{}
+分界线
+identd:::{}
+identd:::{'/': 2}
+分界线
+imaps:::{}
+imaps:::{}
+分界线
+iplog:::{}
+iplog:::{}
+分界线
+ipop2:::{}
+ipop2:::{}
+分界线
+ipop3:::{}
+ipop3:::{}
+分界线
+swat:::{}
+swat:::{'/etc/xinetd.d/swat': 3}
+分界线
+it:::{}
+it:::{}
+分界线
+sonarqube:::{'mvn': 2}
+sonarqube:::{'//ldao.com.com': 1}
+分界线
+kvm:::{'kvm': 1, 'cat': 1}
+kvm:::{'/etc/libvirt/qemu/': 1, '/data': 1, '/': 1}
+分界线
+aws:::{'remove': 1, 'aws': 1}
+aws:::{}
+分界线
+windows:::{'choice': 1, 'start': 1}
+windows:::{'//github.com/stascorp/rdpwrap/releases/tag/': 1}
+分界线
+provider:::{}
+provider:::{}
+分界线
+openid:::{}
+openid:::{}
+分界线
+esb:::{}
+esb:::{}
+分界线
+hsm:::{}
+hsm:::{}
+分界线
+mongodb:::{'db': 1, 'mongo': 2}
+mongodb:::{}
+分界线
+svn:::{'checkout': 1, 'svn': 1}
+svn:::{}
+分界线
+web:::{}
+web:::{}
+分界线
+oauth:::{}
+oauth:::{}
+分界线
+apache:::{'cmd': 1}
+apache:::{}
+分界线
+zookeeper:::{'jps': 1}
+zookeeper:::{'/tmp/zookeeper': 1}
+分界线
+restful:::{}
+restful:::{}
+分界线
+ccappfunctionplan:::{}
+ccappfunctionplan:::{}
+分界线
+splunk:::{'splunk': 2}
+splunk:::{}
+分界线
+heat:::{}
+heat:::{'/etc/os': 2}
+分界线
+tcp:::{}
+tcp:::{}
+分界线
+kubernetes:::{}
+kubernetes:::{}
+分界线
+zipkin:::{'jar': 1}
+zipkin:::{}
+分界线
+mongod:::{}
+mongod:::{}
+分界线
+client:::{}
+client:::{}
+分界线
+azure:::{}
+azure:::{}
+分界线
+llt:::{}
+llt:::{}
+分界线
+google:::{}
+google:::{}
+分界线
+paas:::{}
+paas:::{}
+分界线
+nginx:::{'kill': 1, 'nginx': 5, 'wget': 1}
+nginx:::{'/': 1, '//image.jt.com/': 1, '//image.jt.com': 1, '/windows/': 1, '//manage.jt.com': 1, '//localhost': 1, '//': 1, '/usr/sbin/': 1, '/etc/nginx/': 1, '/usr/local/nginx/conf': 1}
+分界线
+vcs:::{'cli': 4, 'urg': 1, 'vcs': 1}
+vcs:::{}
+分界线
+github:::{}
+github:::{}
+分界线
+master:::{}
+master:::{}
+分界线
+linux:::{'linux': 1, 'man': 1, 'pwd': 1, 'tar': 1, 'uname': 1, 'useradd': 1, 'chmod': 1, 'ps': 1, 'ping': 1, 'shutdown': 1, 'type': 1, 'bc': 1, 'gcc': 1, 'dpkg': 1, 'pip': 1, 'yum': 1}
+linux:::{}
+分界线
+gab:::{'a': 1}
+gab:::{}
+分界线
+databricks:::{}
+databricks:::{}
+分界线
+devops:::{}
+devops:::{}
+分界线
+git:::{'git': 13, 'cvs': 1}
+git:::{}
+分界线
+openstack:::{'openstack': 1}
+openstack:::{'/etc/keystone/keystone.conf ': 1, '/var/log/keystone/keystone.log ': 1}
+分界线
+orchestration:::{}
+orchestration:::{}
+分界线
+rabbitmq:::{'cmd': 1}
+rabbitmq:::{'/': 2, '/etc/rabbitmq/rabbitmq.config': 1}
+分界线
+elixir:::{'elixir': 1, 'gulp': 1}
+elixir:::{}
+分界线
+buzzword:::{}
+buzzword:::{}
+分界线
+php:::{}
+php:::{'/usr/local/php/etc/php': 2}
+分界线
+sonar:::{'runner': 1, 'git': 1, 'clean': 1}
+sonar:::{'/conf/sonar.properties': 1, '/root/.jenkins/workspace/pipeline': 1}
+分界线
+libvirtd:::{}
+libvirtd:::{}
+分界线
+dhcp:::{}
+dhcp:::{'/etc/dhcpd.conf ': 1}
+分界线
+volume:::{'volume': 2, 'kubectl': 1}
+volume:::{}
+分界线
+webservice:::{'wsimport': 3}
+webservice:::{}
+分界线
+saas:::{}
+saas:::{}
+分界线
+iaas:::{'ll': 1}
+iaas:::{}
+分界线
+bigquery:::{'shell': 2, 'bq': 2}
+bigquery:::{}
+分界线
+libvirt:::{'viewer': 1, 'libvirt': 1}
+libvirt:::{'/var/run/libvirt/libvirt': 1, '/etc/libvirt/libvirtd.conf ': 1}
+分界线
+kafka:::{'install': 1}
+kafka:::{}
+分界线
+vnc:::{'tunlp': 1}
+vnc:::{'/srv/': 2}
+分界线
+jekyll:::{'jekyll': 1, 'v': 1, 'curl': 1}
+jekyll:::{}
+分界线
+ibeacon:::{}
+ibeacon:::{}
+分界线
+docker:::{'yum': 1, 'run': 1, 'docker': 12, 'cmd': 1, 'ps': 1, 'startup': 1, 'pause': 1}
+docker:::{}
+分界线
+metastore:::{'hive': 3, 'metastore': 1}
+metastore:::{}
+分界线
+hive:::{'hive': 1}
+hive:::{}
+分界线
+mysql:::{'mysql': 4}
+mysql:::{'/etc/my.cnf ': 1}
+分界线
+bff:::{}
+bff:::{}
+分界线
+lb:::{}
+lb:::{}
+分界线
+ria:::{}
+ria:::{}
+分界线
+edge:::{}
+edge:::{}
+分界线
+moxi:::{}
+moxi:::{}
+分界线
+thrift:::{'thrift': 1}
+thrift:::{}
+分界线
+wcf:::{}
+wcf:::{'//': 1, '//localhost': 1}
+分界线
+confd:::{'cmd': 1}
+confd:::{'/etc/confd': 3, '/usr/local/nginx/conf/nginx.conf': 3}
+分界线
+sysdig:::{'sysdig': 7, 'loader': 6, 'top': 4}
+sysdig:::{}
+分界线
+telemetry:::{}
+telemetry:::{}
+分界线
+locust:::{'f': 3, 'salve': 3, 'locust': 3, 'cmd': 1}
+locust:::{'/.locust.conf': 1}
+分界线
+riak:::{}
+riak:::{}
+分界线
+fpm:::{'linux': 3}
+fpm:::{'/etc/rc.local': 1, '/usr/local/php/sbin/php': 1}
+分界线
+appharbor:::{}
+appharbor:::{}
+分界线
+registry:::{'run': 1}
+registry:::{'/data': 1, '/etc/default/docker': 1, '/etc/docker/conf/registry/config.yml': 1, '/etc/docker/conf/registry': 1}
+分界线
+identity:::{}
+identity:::{}
+分界线
+openstackidentity:::{}
+openstackidentity:::{'//keystone': 1, '/var/log/keystone/keystone': 1, '/var/spool/cron/': 1, '//controller': 7, '/ identity / ': 1}
+分界线
+ws:::{}
+ws:::{}
+分界线
+soa:::{}
+soa:::{}
+分界线
+couchbase:::{}
+couchbase:::{}
+分界线
+namanode:::{}
+namanode:::{}
+分界线
+service:::{'service': 3}
+service:::{}
+分界线
+tfs:::{}
+tfs:::{}
+分界线
+nuget:::{'nuget': 1}
+nuget:::{}
+分界线
+socket:::{}
+socket:::{}
+分界线
+runner:::{}
+runner:::{'/etc/gitlab': 1, '/builds//': 1, '/var/lib/docker/volumes//': 1, '/cache': 3}
+分界线
+fleet:::{'units': 1, 'fleetctl': 1, 'submit': 2, 'destroy': 1}
+fleet:::{}
+分界线
+om:::{'admin': 1}
+om:::{}
+分界线
+wed:::{}
+wed:::{}
+分界线
+mock:::{}
+mock:::{'/': 1, '/etc/mock': 1, '/var/lib/mock/': 1}
+分界线
+server:::{}
+server:::{}
+分界线
+signaling:::{}
+signaling:::{}
+分界线
+dropwizard:::{}
+dropwizard:::{}
+分界线
+foreman:::{'puppet': 1}
+foreman:::{'/etc/foreman': 1}
+分界线
+api:::{}
+api:::{}
+分界线
+sql:::{'sql': 1}
+sql:::{}
+分界线
+moco:::{'cd': 1}
+moco:::{}
+分界线
+owin:::{}
+owin:::{}
+分界线
+swagger:::{}
+swagger:::{}
+分界线
+tomcat:::{}
+tomcat:::{}
+分界线
+order:::{}
+order:::{}
+分界线
+ethereum:::{}
+ethereum:::{}
+分界线
+consumer:::{}
+consumer:::{}
+分界线
+prometheus:::{'h': 1}
+prometheus:::{}
+分界线
+angularjs:::{}
+angularjs:::{}
+分界线
+hystrix:::{'hystrix': 3}
+hystrix:::{}
+分界线
+jsf:::{}
+jsf:::{}
+分界线
+token:::{'token': 1}
+token:::{}
+分界线
+faas:::{'cli': 1}
+faas:::{}
+分界线
+consul:::{'consul': 2, 'event': 1, 'leave': 1}
+consul:::{'/etc/ consulc.d ': 1}
+分界线
+signalr:::{}
+signalr:::{}
+分界线
+proxy:::{}
+proxy:::{}
+分界线
+rest:::{}
+rest:::{}
+分界线
+agent:::{}
+agent:::{}
+分界线
+mariadb:::{'powershell': 1, 'mariadb': 2, 'revoke': 1, 'p': 1, 'installation': 1}
+mariadb:::{'/etc/ ': 4, '/usr/local/jdk/ export classpath': 1, '/usr/local/amoeba/ export path': 1, '/usr/local/amoeba/exportpath': 1, '/amoeba': 1}
+分界线
+gitlab:::{'git': 1, 'apt': 1, 'rpm': 1}
+gitlab:::{'/etc/gitlab/gitlab.rb': 1, '/etc/gitlab/ ': 1, '//': 2, '/etc/gitlab/': 1}
+分界线
+appium:::{'doctor': 1, 'appium': 1, 'dos': 1}
+appium:::{}
+分界线
+lambda:::{'java': 1}
+lambda:::{}
+分界线
+gateway:::{'status': 1}
+gateway:::{}
+分界线
+rpc:::{'protoc': 1}
+rpc:::{}
+分界线
+nlp:::{}
+nlp:::{}
+分界线
+zipkinserver:::{}
+zipkinserver:::{}
+分界线
+like:::{}
+like:::{}
+分界线
+websocket:::{}
+websocket:::{}
+分界线
+quote:::{}
+quote:::{}
+分界线
+reliable:::{}
+reliable:::{}
+分界线
+networkmapcache:::{}
+networkmapcache:::{}
+分界线
+hello:::{'ld': 1}
+hello:::{}
+分界线
+sensu:::{}
+sensu:::{}
+分界线
+etcd:::{'etcdctl': 1, 'systemctl': 1, 'cert': 2, 'go': 1}
+etcd:::{'/opt/soft/etcd/etcd.conf': 2, '/var/data/etcd/cvm': 1}
+分界线
+vm:::{}
+vm:::{}
+分界线
+coap:::{}
+coap:::{}
+分界线
+servicea:::{}
+servicea:::{}
+分界线
+default:::{}
+default:::{}
+分界线
+rancher:::{'kubecel': 1}
+rancher:::{}
+分界线
+nomad:::{'plan': 1}
+nomad:::{}
+分界线
+dubbo:::{'maven': 1}
+dubbo:::{}
+分界线
+locksmith:::{'locksmithctl': 1}
+locksmith:::{}
+分界线
+amoeba:::{'java': 1}
+amoeba:::{'/usr/local/amoeba/conf': 4, '//sourceforge.net/projects/amoeba/ ': 1, '//ncu.dl.sourceforge.net/project/amoeba/': 1, '//sourceforge.net/projects/amoeba/files': 1, '/usr/local/amoebapath': 1, '//amoeba.meidusa.com/': 2, '/property': 57, '/bean': 5, '/conf/access': 1, '/service': 2, '/runtime': 1, '/proxy': 1, '/connectionmanager': 2, '/connectionmanagerlist': 1, '/conf/dbservers.xml': 1, '/dbserverloader': 1, '/conf/rule.xml': 1, '/conf/rulefunctionmap.xml': 1, '/conf/functionmap.xml': 1, '/queryrouter': 1, '/amoeba': 1, '/factoryconfig': 3, '/poolconfig': 1, '/dbserver': 3}
+分界线
+discoveryclient:::{}
+discoveryclient:::{}
+分界线
+pinpoint:::{'d': 1}
+pinpoint:::{}
+分界线
+webrtc:::{}
+webrtc:::{}
+分界线
+coordinator:::{}
+coordinator:::{}
+分界线
+etl:::{}
+etl:::{}
+分界线
+node:::{'npm': 1, 'node': 2, 'dos': 1, 'cmd': 1}
+node:::{}
+分界线
+kayenta:::{}
+kayenta:::{}
+分界线
+emq:::{}
+emq:::{}
+分界线
+patroni:::{'patronictl': 2}
+patroni:::{'/etc/patroni.yml': 5, '/etc/systemd/system/patroni.service': 1}
+分界线
+automl:::{}
+automl:::{}
+分界线
+django:::{}
+django:::{'//': 1}
+分界线
+elk:::{}
+elk:::{}
+分界线
+feignserver:::{'maven': 1}
+feignserver:::{}
+分界线
+npm:::{'shrinkwrap': 1, 'npm': 1}
+npm:::{}
+分界线
+worker:::{'new': 2}
+worker:::{}
+分界线
+presto:::{}
+presto:::{'//': 3, '/opt': 1, '/data/presto/data   ': 1, '//example.net': 3, '//prestodb.io/docs/current/connector.html hive connector': 1, '/etc/hadoop/conf/core': 1, '/etc/hadoop/conf/hdfs': 1, '//prestodb.io/docs/current/connector/hive.html https': 1, '//prestodb.io/docs/current/connector/hive': 1, '/opt/software/presto/ln': 1}
+分界线
+mosquitto:::{'cmd': 1}
+mosquitto:::{'/etc/mosquitto/mosquitto.conf': 1, '/etc/mosquitto/conf.d/': 1}
+分界线
+flow:::{}
+flow:::{}
+分界线
+dashboard:::{}
+dashboard:::{}
+分界线
+kubelet:::{}
+kubelet:::{}
+分界线
+graphql:::{}
+graphql:::{}
+分界线
+koa:::{}
+koa:::{}
+分界线
+keycloak:::{}
+keycloak:::{}
+分界线
+alexa:::{'speak': 1}
+alexa:::{}
+分界线
+iam:::{'token': 1}
+iam:::{}
+分界线
+phoenix:::{'psql': 1}
+phoenix:::{}
+分界线
+discovery:::{}
+discovery:::{}
+分界线
+sdn:::{}
+sdn:::{}
+分界线
+corda:::{}
+corda:::{}
+分界线
+jupyter:::{'jupyter': 1}
+jupyter:::{'//': 1, '/': 1}
+分界线
+hangfire:::{}
+hangfire:::{}
+分界线
+gcp:::{'cp': 2, 'gcp': 1}
+gcp:::{}
+分界线
+grpc:::{}
+grpc:::{}
+分界线
+apollo:::{}
+apollo:::{}
+分界线
+ros:::{'ros': 1}
+ros:::{}
+分界线
+dialogflow:::{}
+dialogflow:::{}
+分界线
+eureka:::{}
+eureka:::{}
+分界线
+gke:::{}
+gke:::{}
+分界线
+tiller:::{}
+tiller:::{}
+分界线
+portal:::{}
+portal:::{'/': 1}
+分界线
+traefik:::{}
+traefik:::{'/': 1, '/etc/traefik/traefik.toml': 1}
+分界线
+ui:::{}
+ui:::{}
+分界线
+coredns:::{'coredns': 1, 'curl': 1, 'etcdctl': 1}
+coredns:::{}
+分界线
+yarn:::{'yarn': 3}
+yarn:::{}
+分界线
+airflow:::{'airflow': 1, 'bash': 3}
+airflow:::{'/airflow/utils/dingbot.py': 1}
+分界线
+dev:::{}
+dev:::{}
+分界线
+adminservice:::{}
+adminservice:::{}
+分界线
+influxdb:::{'influxd': 1, 'influx': 1, 'alter': 1}
+influxdb:::{}
+分界线
+jaeger:::{}
+jaeger:::{}
+分界线
+nameko:::{'run': 4}
+nameko:::{}
+分界线
+oracle:::{'sql': 1, 'dbstart': 1, 'dbca': 1}
+oracle:::{}
+分界线
+tensorflow:::{'pip': 2}
+tensorflow:::{}
+分界线
+tango:::{}
+tango:::{}
+分界线
+wiremock:::{'jar': 1, 'wiremock': 1}
+wiremock:::{'/': 1}
+分界线
+configservice:::{}
+configservice:::{}
+分界线
+loki:::{}
+loki:::{'/etc/promtail/promtail.yaml ': 1, '//loki.loki': 1}
+分界线
+es:::{'curl': 1}
+es:::{'//www.': 1}
+分界线
+istio:::{}
+istio:::{'/etc/istio/proxy': 1}
+分界线
+firebase:::{}
+firebase:::{}
+分界线
+rendertron:::{}
+rendertron:::{}
+分界线
+angular:::{}
+angular:::{}
+分界线
+elasticsearch:::{}
+elasticsearch:::{'/usr/share/elasticsearch/config/': 1}
+分界线
+ktor:::{}
+ktor:::{}
+分界线
+canary:::{'stack': 1}
+canary:::{}
+分界线
+nacos:::{}
+nacos:::{'//nacos.io/zh': 1, '//localhost': 1}
+分界线
+mina:::{}
+mina:::{}
+分界线
+oracleservicesid:::{}
+oracleservicesid:::{}
+分界线
+ai:::{}
+ai:::{}
+分界线
+mqtt:::{'https': 1, 'mqtt': 1}
+mqtt:::{}
+分界线
+mixer:::{}
+mixer:::{}
+分界线
+ingressgateway:::{}
+ingressgateway:::{}
+分界线
+ebpf:::{}
+ebpf:::{}
+分界线
+keepalived:::{}
+keepalived:::{'/etc/keepalived/keepalived.conf': 2, '/usr/sbin': 1, '/etc/rc.d/init.d': 1, '/etc/init.d/': 1, '/etc': 2, '/etc/sysconfig/': 1, '/etc/rc.d/init.d/': 1, '/etc/keepalived': 1, '/etc/sysconfig/keepalived': 1, '/etc/keepalived/': 1, '//www.keepalived.org/download.html wget http': 1, '//www.keepalived.org/software/keepalived': 1, '/usr/local/keepalived make make install mkdir /etc/keepalived cp /usr/local/keepalived/sbin/keepalived /usr/sbin/ cp /usr/local/keepalived/etc/keepalived/keepalived.conf /etc/keepalived/keepalived.conf cp /usr/local/keepalived/etc/sysconfig/keepalived /etc/sysconfig/ cp keepalived/etc/init.d/keepalived /etc/init.d/ chmod ': 1, '/usr/local/keepalived': 1}
+分界线
+redis:::{'flushall': 1, 'bgrewriteaof': 1, 'lrange': 1, 'redis': 1, 'info': 1}
+redis:::{'/usr/local/bin  ': 1, '/usr/local/bin ': 1, '/usr/local/bin': 1, '/usr/local/docker/redis.conf': 1}
+分界线
+whoami:::{'su': 2, 'whoami': 10, 'man': 1}
+whoami:::{}
+分界线
+ingress:::{'f': 1}
+ingress:::{}
+分界线
+camunda:::{}
+camunda:::{}
+分界线
+keepalive:::{}
+keepalive:::{}
+分界线
+sybase:::{'isql': 1}
+sybase:::{}
+分界线
+keeaplived:::{}
+keeaplived:::{}
+分界线
+reactor:::{}
+reactor:::{}
+分界线
+leaf:::{}
+leaf:::{}
+分界线
+prediction:::{}
+prediction:::{}
+分界线
+iis:::{'ipconfig': 1}
+iis:::{}
+分界线
+cxf:::{}
+cxf:::{}
+分界线
+sqlserverbrowser:::{}
+sqlserverbrowser:::{}
+分界线
+zabbix:::{'hostname': 1, 'chcon': 1}
+zabbix:::{'/etc/my.cnf': 1, '/var/zabbix/zabbix': 1, '/var/log/zabbix/zabbix': 2, '/var/run/zabbix/zabbix': 2, '/var/log/snmptrap/snmptrap.log   ': 1, '/usr/lib/zabbix/alertscripts   ': 1, '/usr/lib/zabbix/externalscripts   ': 1, '/etc/zabbix/zabbix': 1}
+分界线
+zk:::{'delete': 1}
+zk:::{}
+分界线
+netty:::{}
+netty:::{}
+分界线
+spi:::{'device': 1}
+spi:::{}
+分界线
+io:::{}
+io:::{}
+分界线
+ful:::{}
+ful:::{}
+分界线
+sharepoint:::{'sharepoint': 1}
+sharepoint:::{}
+分界线
+alertview:::{}
+alertview:::{}
+分界线
+sqlserver:::{}
+sqlserver:::{}
+分界线
+rsyslog:::{}
+rsyslog:::{'/tmp/a.sh   ': 1, '/var/log/oracle.log ': 1, '/etc/sysconfig/rsyslog': 1, '/etc/rsyslog.conf': 3, '/etc/rsyslog.config': 1}
+分界线
+fastdfs:::{'module': 1, 'kill': 1}
+fastdfs:::{'/etc/fdfs': 4, '/usr/bin/': 1}
+分界线
+remoting:::{}
+remoting:::{}
+分界线
+solr:::{'posting': 1, 'stop': 1, 'create': 2, 'solr': 1}
+solr:::{'/bin/solr.in.sh': 1, '/server/solr': 1, '/testsolr/solr': 1}
+分界线
+crontab:::{'crontab': 28, 'linux': 2, 'cron': 2, 'l': 2}
+crontab:::{'/etc': 4, '/var/spool/cron/tabs/root ': 1}
+分界线
+nat:::{'iptables': 1, 's': 1}
+nat:::{}
+分界线
+sip:::{}
+sip:::{}
+分界线
+vue:::{'vue': 1}
+vue:::{}
+分界线
+swift:::{'swift': 2}
+swift:::{}
+分界线
+thriftserver:::{}
+thriftserver:::{}
+分界线
+selenium:::{}
+selenium:::{}
+分界线
+agentd:::{}
+agentd:::{}
+分界线
+cron:::{'mail': 1}
+cron:::{'/var/spool/cron/ ': 1, '/var/spool/cron/tom': 1}
+分界线
+haproxy:::{'server': 1}
+haproxy:::{'/etc/haproxy/haproxy.cfg': 1, '/etc/haproxy/haproxy.cfg ': 1}
+分界线
+minion:::{'cli': 1, 'shell': 1, 'salt': 1, 'key': 1}
+minion:::{'/etc/salt': 1}
+分界线
+cassandra:::{'delete': 1, 'update': 1}
+cassandra:::{'/etc/cassandra/cassandra.yaml': 1}
+分界线
+saltstack:::{'key': 1, 'salt': 1}
+saltstack:::{'/etc/salt': 1}
+分界线
+broker:::{}
+broker:::{'//www.apache.org/licenses/license': 1}
+分界线
+lvs:::{}
+lvs:::{}
+分界线
+jenkins:::{'maven': 1, 'java': 1, 'cmd': 1}
+jenkins:::{'/etc/profile.d': 1, '//ip': 1, '/var/lib/jenkins  ': 1}
+分界线
+cdh:::{}
+cdh:::{}
+分界线
+www:::{}
+www:::{}
+分界线
+cvstrac:::{'htpasswd': 1}
+cvstrac:::{}
+分界线
+memcached:::{'ldd': 1, 'stats': 1, 'get': 1, 'gets': 1, 'cas': 1, 'vvv': 1, 'memcached': 1}
+memcached:::{}
+分界线
+activemq:::{}
+activemq:::{'//mortbay.com/schemas/jetty/': 1, '/connectors': 1, '/jetty': 1, '/': 17, '/persistence': 1, '//localhost/activemq': 1, '/bean': 1, '//com.yourpackage': 1, '//activemq.org/config/': 4, '//localhost': 3, '/transportconnectors': 3, '/auth': 1, '/beans': 2, '/authorizationentries': 1, '/authorizationmap': 1, '/map': 1, '/authorizationplugin': 1, '/plugins': 1, '/persistenceadapter': 1, '/broker': 3, '/subscriptionrecoverypolicy': 1, '/pendingmessagelimitstrategy': 1, '/policyentry': 6, '/policyentries': 6, '/policymap': 6, '/destinationpolicy': 6, '// ': 1, '//': 1, '//notify.foo.a': 1, '/forwardto': 2, '/compositequeue': 2, '/virtualdestinations': 2, '/virtualdestinationinterceptor': 2, '/destinationinterceptors': 3, '/dispatchpolicy': 3, '/pendingsubscriberpolicy': 1, '/pendingdurablesubscribermessagestoragepolicy': 1, '/pendingqueuepolicy': 1, '/etc/default/activemq': 1}
+分界线
+nimbus:::{}
+nimbus:::{}
+分界线
+oned:::{}
+oned:::{}
+分界线
+metircs:::{}
+metircs:::{}
+分界线
+impalad:::{}
+impalad:::{}
+分界线
+tracker:::{}
+tracker:::{'/usr/bin/fdfs': 1}
+分界线
+sunstone:::{}
+sunstone:::{}
+分界线
+one:::{}
+one:::{}
+分界线
+eucalyptus:::{}
+eucalyptus:::{}
+分界线
+hue:::{}
+hue:::{'/hue/desktop/conf/pseudo': 1, '/docker': 1, '/usr/local/hue/desktop/conf/': 1, '/home/hue/hive/conf': 1}
+分界线
+ldirectord:::{'ipvsadm': 12}
+ldirectord:::{'/etc/ha.d/ldirectord.cf    ': 1, '/etc/ha.d/conf': 2, '/etc/ha.d/ldirectord.cf': 2}
+分界线
+internet:::{}
+internet:::{}
+分界线
+puppet:::{'get': 2, 'service': 1, 'puppet': 1}
+puppet:::{'/etc/init.d/ntpd restart ': 1, '/var/lib/puppet/ssl': 1, '/tmp/aa.txt': 2, '/tmp/hello.txt': 1, '//manager.up.com/files/hello.txt': 1, '/tmp/bb.txt': 1, '//manager.up.com/files/bb.txt': 1, '/tmp/b.sh': 2, '//manager.up.com/files/b.sh': 1, '/tmp': 3, '/usr/local/sbin': 2, '/usr/local/bin': 2, '/sbin': 2, '/bin': 2, '/usr/sbin': 2, '/usr/bin ': 1, '/bin/sh': 1, '/usr/bin': 1, '/bin/bash /tmp/a.sh': 1, '/bin/touch /tmp/d.txt': 1, '/usr/sbin/logrotate': 1, '/etc/puppet/modules': 1, '/manifests ': 1, '/files ': 1, '/templates ': 1, '/manifests/init.pp class ': 1, '/etc/motd': 1, '//': 1, '/etc/puppet/puppet.conf': 2, '/etc/puppet/manifests': 1, '/tmp/': 1}
+分界线
+jms:::{}
+jms:::{}
+分界线
+rocketmq:::{'maven': 1}
+rocketmq:::{'/usr/local tar ': 1}
+分界线
+zookkeeper:::{}
+zookkeeper:::{}
+分界线
+sqoop:::{'sqoop': 7, 'clone': 1, 'shell': 1, 'tables': 1}
+sqoop:::{'/etc/profile ': 1, '/usr/local/hadoop/': 1}
+分界线
+metrics:::{}
+metrics:::{}
+分界线
+cloudera:::{}
+cloudera:::{'/etc/default/': 1}
+分界线
+impala:::{'shell': 4, 'hdfs': 1, 'yum': 1}
+impala:::{'//': 1}
+分界线
+storage:::{}
+storage:::{}
+分界线
+opennebula:::{}
+opennebula:::{}
+分界线
+flume:::{}
+flume:::{'/library/java/javavirtualmachines/': 1}
+分界线
+cms:::{}
+cms:::{}
+分界线
+informatica:::{}
+informatica:::{}
+分界线
+cobar:::{'mysql': 1, 'offline': 1}
+cobar:::{'/usr/jfy/tmp/scpcdr.txt': 1, '/usr/jfy/tmp/scpcdr.txt  ': 1, '/property': 2}
+分界线
+walrus:::{}
+walrus:::{}
+分界线
+namenode:::{'jps': 3}
+namenode:::{}
+分界线
+hbase:::{'hbase': 1, 'put': 1, 'quit': 1}
+hbase:::{'/conf': 1}
+分界线
+ambari:::{'mvn': 1}
+ambari:::{'/etc/ambari': 3, '//cdn.mysql.com/downloads/connector': 1, '/usr/share/java': 1}
+分界线
+spark:::{'jps': 1, 'submit': 2}
+spark:::{'/training/ ': 1, '/root/training/': 1, '//': 1}
+分界线
+cm:::{'agent': 1}
+cm:::{}
+分界线
+catalog:::{'catalog': 3, 'generate': 1}
+catalog:::{}
+分界线
+ssis:::{}
+ssis:::{}
+分界线
+bean:::{}
+bean:::{}
+分界线
+gps:::{}
+gps:::{}
+分界线
+sentry:::{'sentry': 1, 'cli': 1}
+sentry:::{}
+分界线
+rmi:::{'rmic': 1, 'javac': 1}
+rmi:::{}
+分界线
+hessian:::{}
+hessian:::{}
+分界线
+divide:::{}
+divide:::{}
+分界线
+obd:::{'obd': 2}
+obd:::{}
+分界线
+kudu:::{'summray': 2, 'deletesql': 1}
+kudu:::{'/etc/default/impala': 2}
+分界线
+executor:::{}
+executor:::{}
+分界线
+storm:::{}
+storm:::{'/export/servers ': 1, '/': 1}
+分界线
+java:::{}
+java:::{}
+分界线
+status:::{}
+status:::{}
+分界线
+mdp:::{}
+mdp:::{}
+分界线
+autosar:::{}
+autosar:::{}
+分界线
+drill:::{'sqlline': 1}
+drill:::{}
+分界线
+ignite:::{'sql': 1}
+ignite:::{}
+分界线
+ejb:::{}
+ejb:::{}
+分界线
+msmq:::{}
+msmq:::{}
+分界线
+flink:::{'flink': 2}
+flink:::{}
+分界线
+mesos:::{'master': 1, 'help': 1, 'dir': 1}
+mesos:::{}
+分界线
+ooize:::{'import': 1}
+ooize:::{}
+分界线
+zeppelin:::{}
+zeppelin:::{'//zeppelin.apache.org/docs/': 1, '/data/tools/zeppelin/zeppelin': 1}
+分界线
+mycat:::{'rollback': 1, 'commit': 1}
+mycat:::{}
+分界线
+autofac:::{}
+autofac:::{}
+分界线
+ota:::{'makeotapackage': 1, 'sample': 1, 'ota': 2}
+ota:::{}
+分界线
+protocol:::{}
+protocol:::{}
+分界线
+kibana:::{'curl': 1}
+kibana:::{}
+分界线
+echo:::{'echo': 12}
+echo:::{}
+分界线
+drillbit:::{}
+drillbit:::{}
+分界线
+tablet:::{}
+tablet:::{}
+分界线
+oozie:::{}
+oozie:::{'//ip': 1, '//': 4, '/oozie/output inputdir': 1, '/oozie/input jdbcurl': 1, '/user/root/oozie': 1, '/user/': 1, '/': 1, '/sereval': 1, '/home/software/ora': 1, '/home/software/ora/apache': 1, '//mvnrepository.com/ ': 1, '/home/software/ora/oozie': 1, '/name': 1, '/value': 1, '/property': 1}
+分界线
+azkaban:::{'unzip': 1, 'jps': 1, 'sql': 1}
+azkaban:::{'/opt/module/azkaban/azkaban': 1}
+分界线
+idc:::{}
+idc:::{}
+分界线
+csp:::{}
+csp:::{}
+分界线
+slave:::{'sync': 2}
+slave:::{'/etc/my.cnf': 2, '/tmp/mysql.sock ': 1}
+分界线
+raftserver:::{}
+raftserver:::{}
+分界线
+deliveryservice:::{}
+deliveryservice:::{}
+分界线
+nsq:::{'file': 1, 'shell': 1}
+nsq:::{}
+分界线
+kylin:::{}
+kylin:::{}
+分界线
+logstash:::{'cli': 1}
+logstash:::{'/etc': 1, '/data/logstash.out ': 1, '/usr/local/elk/logstash/vendor/bundle/jruby/': 1, '//github.com/logstash': 1}
+分界线
+httpfs:::{}
+httpfs:::{'/home/httpfs': 1, '/home/httpfs/hadoop': 1}
+分界线
+rackspace:::{}
+rackspace:::{}
+分界线
+combo:::{}
+combo:::{}
+分界线
+rpcbind:::{'rpcinfo': 1, 'notify': 1}
+rpcbind:::{}
+分界线
+wsbdav:::{}
+wsbdav:::{}
+分界线
+mogilefsd:::{'mogadm': 1}
+mogilefsd:::{}
+分界线
+raft:::{}
+raft:::{}
+分界线
+gossip:::{}
+gossip:::{}
+分界线
+cdn:::{}
+cdn:::{}
+分界线
+chubby:::{}
+chubby:::{}
+分界线
+mq:::{}
+mq:::{}
+分界线
+scribe:::{'ctrl': 1}
+scribe:::{'/usr/local/scribe': 1}
+分界线
+ordering:::{}
+ordering:::{}
+分界线
+browserstack:::{}
+browserstack:::{}
+分界线
+glusterfs:::{'fdisk': 1}
+glusterfs:::{'/etc/fstab': 1, '/var/lib/glusterd/vols/volname': 1, '/var/lib/glusterd/': 1, '/var/lib/glusterd': 1}
+分界线
+httpsqs:::{}
+httpsqs:::{}
+分界线
+crm:::{'meta': 1}
+crm:::{}
+分界线
+memcache:::{}
+memcache:::{}
+分界线
+conductor:::{}
+conductor:::{}
+分界线
+minify:::{}
+minify:::{}
+分界线
+varnish:::{'varnishstat': 1, 'varnishadm': 1, 'varnish': 2, 'varnishd': 1}
+varnish:::{'/etc/varnish/default.vcl': 2, '/etc/varnish/varnish.params': 2, '/usr/bin/varnishtest vcl': 1, '//repo.percona.com/yum/release/': 1, '/usr/lib/systemd/system/varnish.service': 3, '/': 2, '//': 1, '//mirrors.aliyun.com/repo/centos': 1, '/usr/local/varnish ': 1, '/var/named/': 1}
+分界线
+glusterd:::{'client': 2, 'kill': 1}
+glusterd:::{}
+分界线
+mogstored:::{'mogadm': 5}
+mogstored:::{}
+分界线
+mogilefs:::{}
+mogilefs:::{'/usr/bin/mogilefsd   ': 1, '/usr/bin/mogadm   ': 1, '/etc/mogilefs/mogilefsd.conf   ': 1, '/etc/mogilefs/mogstored.conf': 2, '/etc': 1, '/etc/mogilefs/ ': 1, '/': 1, '/etc/mogilefs/mogilefsd.conf': 1, '/usr/common/mogilefs/mogilefsd.conf ': 2, '/ ': 1}
+分界线
+cache:::{}
+cache:::{}
+分界线
+thrrift:::{}
+thrrift:::{}
+分界线
+cockpit:::{'apt': 1, 'cockpit': 1}
+cockpit:::{}
+分界线
+magnum:::{'cli': 1}
+magnum:::{}
+分界线
+canal:::{}
+canal:::{}
+分界线
+knative:::{}
+knative:::{}
+分界线
+memcacheq:::{'memcached': 4, 'ps': 1}
+memcacheq:::{}
+分界线
+bind:::{}
+bind:::{'/usr/share/doc/bind': 1, '/var/named/chroot/etc/named.conf': 1, '/var/named/chroot/var/named/slaves': 1}
+分界线
+fdd:::{}
+fdd:::{}
+分界线
+management:::{}
+management:::{}
+分界线
+elasticache:::{}
+elasticache:::{}
+分界线
+firewalld:::{'cmd': 1}
+firewalld:::{'/etc/firewalld/': 1, '/usr/lib/firewalld/': 1, '/usr/lib/firewalld/services/ ': 2}
+分界线
+ddos:::{}
+ddos:::{}
+分界线
+flannel:::{'etcdctl': 1}
+flannel:::{}
+分界线
+instance:::{}
+instance:::{}
+分界线
+selinux:::{'sealert': 1}
+selinux:::{'/etc/selinux/config': 1, '/etc/sysconfig/selinux': 1, '/jay': 1}
+分界线
+httpdns:::{}
+httpdns:::{}
+分界线
+cloudstack:::{'route': 1}
+cloudstack:::{}
+分界线
+amazon:::{}
+amazon:::{}
+分界线
+hire:::{}
+hire:::{}
+分界线
+metadata:::{}
+metadata:::{}
+分界线
+cadvisor:::{'shell': 1}
+cadvisor:::{}
+分界线
+scope:::{}
+scope:::{}
+分界线
+apparmor:::{'statua': 1}
+apparmor:::{'/etc/apparmor.d/': 1, '/etc/apparmor.d': 7, '/var/log/messages': 2, '/usr/bin/nmcli': 1, '/home/leagsoft/leagview/bin/uniradiud': 1, '/tmp r ': 1, '/tmp': 1, '/ usr / bin / tbl': 1, '/ usr / bin / man': 1, '/home/lei/demoexe': 1}
+分界线
+atlas:::{}
+atlas:::{'/opt/atlas/conf/': 1, '/opt/atlas/conf/hbase': 1, '/opt/atlas/conf/atlas': 1, '/opt/atlas/conf/hbase/conf': 1, '/opt/module/atlas/conf': 1, '/opt/module/solr': 2, '/opt/module/atlas/conf/hbase': 1, '/opt/module/atlas/conf/': 6}
+分界线
+contiki:::{}
+contiki:::{}
+分界线
+resultmanagerservice:::{}
+resultmanagerservice:::{}
+分界线
+ats:::{}
+ats:::{}
+分界线
+win:::{'control': 1}
+win:::{}
+分界线
+dynamodb:::{}
+dynamodb:::{}
+分界线
+d:::{}
+d:::{}
+分界线
+psn:::{}
+psn:::{}
+分界线
+waf:::{}
+waf:::{}
+分界线
+pki:::{}
+pki:::{}
+分界线
+msp:::{}
+msp:::{}
+分界线
+firewall:::{'config': 1}
+firewall:::{'/etc/sysconfig/iptables': 1, '/etc/firewalld/zones/public.xml': 1}
+分界线
+grafana:::{'remote': 1, 'cli': 1}
+grafana:::{'/etc/grafana/grafana.ini': 4, '//nssm.cc/download grafana ': 1, '//docs.grafana.org/installation/windows/ grafana ': 1}
+分界线
+marathon:::{'shell': 3, 'run': 1}
+marathon:::{'/etc/mesos/zk': 1}
+分界线
+felix:::{'install': 2, 'cmd': 1}
+felix:::{}
+分界线
+clair:::{'psql': 1, 'bzr': 1, 'prepare': 1}
+clair:::{'//raw.githubusercontent.com/coreos/clair/': 1}
+分界线
+fluent:::{}
+fluent:::{}
+分界线
+mbean:::{}
+mbean:::{}
+分界线
+memory:::{}
+memory:::{}
+分界线
+openssh:::{}
+openssh:::{}
+分界线
+quay:::{}
+quay:::{}
+分界线
+serverless:::{'serverless': 1}
+serverless:::{}
+分界线
+virtlogd:::{}
+virtlogd:::{}
+分界线
+flanneld:::{}
+flanneld:::{'/etc/sysconfig/flanneld': 1, '//': 3}
+分界线
+apiserver:::{'kubectl': 3}
+apiserver:::{'/etc/kubernets/apiserver': 3}
+分界线
+adapter:::{}
+adapter:::{}
+分界线
+notary:::{'compose': 1, 'prepare': 1}
+notary:::{}
+分界线
+cacti:::{'wmic': 1}
+cacti:::{'/usr/local/ ': 1, '/var/www/html/index.php': 1, '//': 3, '/configure ': 1, '/var/www/html/cacti/poller.php ': 1, '/': 1, '/dev/null ': 1}
+分界线
+zstack:::{'qemu': 1}
+zstack:::{}
+分界线
+oneproxy:::{'list': 1, 'use': 4, 'shell': 1, 'mysql': 1, 'passwd': 1}
+oneproxy:::{}
+分界线
+dockerdns:::{}
+dockerdns:::{}
+分界线
+calico:::{'rmmodipip': 1, 'calicoctl': 3, 'calicoamd': 1}
+calico:::{}
+分界线
+weave:::{'weave': 3, 'docker': 1, 'ifconfig': 1}
+weave:::{}
+分界线
+mail:::{'mail': 9}
+mail:::{'/etc/mail.rc': 2, '/.mailrc': 1}
+分界线
+xinted:::{}
+xinted:::{'//linuxidc': 1}
+分界线
+snmp:::{'snmpbulkwalk': 1, 'display': 1, 'user': 1}
+snmp:::{'/var/lib/net': 1}
+分界线
+openfaas:::{}
+openfaas:::{}
+分界线
+ca:::{'client': 2, 'adminpw': 2, 'openssl': 1}
+ca:::{}
+分界线
+timesten:::{}
+timesten:::{}
+分界线
+drozer:::{'dos': 1, 'drozer': 2}
+drozer:::{'//com.mwr.example.sieve.dbcontentprovider/passwords/': 1, '//com.mwr.example.sieve.dbcontentprovider/passwords/ ': 2, '//com.mwr.example.sieve.filebackupprovider/etc/': 1, '//com.mwr.example.sieve.filebackupprovider/data/data/com.mwr.example.sieve/databases/database.db d': 1, '/database.db': 1}
+分界线
+nagios:::{'nagios': 2, 'mysql': 2}
+nagios:::{'/usr/local/nagios/etc/nagios.cfg': 4, '/': 2, '/usr/local/nagios/etc': 4, '/usr/local/nagios ': 4, '/usr/local/nagios/sbin': 1, '/usr/local/nagios/share': 4, '/usr/local/nagios/etc/htpasswd.users': 1, '/usr/local/nagios/etc/conf ': 1, '/usr/local/nagios/bin/nagios ': 1, '//': 2, '/usr/local/nagios/etc/cgi.cfg authorized': 1, '/usr/local/nagios/': 2, '/etc/rc.d/init.d/nagios ': 2, '/var/log/nagios/nagios.log ': 1, '/etc/nagios/objects/commands.cfg ': 1, '/etc/nagios/objects/contacts.cfg ': 1, '/etc/nagios/objects/timeperiods.cfg ': 1, '/etc/nagios/objects/templates.cfg ': 1, '/etc/nagios/objects/localhost.cfg ': 1, '/etc/nagios/objects/windows.cfg ': 1, '/etc/nagios/objects/switch.cfg ': 1, '/etc/nagios/objects/printer.cfg ': 1, '/usr/local/nagios/etc/objects/localhost.cfg ': 1, '/etc/init.d/nagios': 1, '/etc/httpd/conf.d/': 1, '/etc/nagios/private/resource.cfg ': 1, '/etc/nagios/nagios.cfg ': 1, '/usr/share/nagios/html ': 1, '/nagios ': 1, '/nagios': 1, '/usr/local/nagios/etc/objects/': 1, '/usr/local/nagios/etc/objects/locahost.cfg': 1, '/usr/local/nagios/etc/objects/localhost.cfg': 1, '/usr/local/nagios/etc/objects': 1, '/etc/httpd/conf.d/nagios.conf ': 1}
+分界线
+nsca:::{'nsca': 1}
+nsca:::{'/etc/': 1}
+分界线
+num:::{}
+num:::{}
+分界线
+nrpe:::{'nrpe': 13}
+nrpe:::{'/usr/local/nagios/libexec/check': 5}
+分界线
+dma:::{}
+dma:::{}
+分界线
+macaca:::{'npm': 1}
+macaca:::{}
+分界线
+uiautomator:::{}
+uiautomator:::{}
+分界线
+stf:::{'cnpm': 1}
+stf:::{}
+分界线
+gitbook:::{'git': 1, 'gitbook': 1}
+gitbook:::{}
+分界线
+redmine:::{}
+redmine:::{}
+分界线
+reveal:::{}
+reveal:::{}
+分界线
+mta:::{}
+mta:::{'//mta': 2}
+分界线
+bugfree:::{}
+bugfree:::{}
+分界线
+bot:::{'bot': 2}
+bot:::{}
+分界线
+accessibility:::{}
+accessibility:::{'/intent': 1, '/service': 1}
+分界线
+frida:::{'u': 2, 'pip': 1}
+frida:::{}
+分界线
+confluence:::{'confluence': 1}
+confluence:::{'/opt/atlassian/confluence/conf/server.xml': 1}
+分界线
+nt:::{}
+nt:::{}
+分界线
+testflight:::{}
+testflight:::{}
+分界线
+epmd:::{}
+epmd:::{}
+分界线
+ci:::{}
+ci:::{}
+分界线
+saucelabs:::{'curl': 1}
+saucelabs:::{}
+分界线
+qamaster:::{}
+qamaster:::{}
+分界线
+jira:::{}
+jira:::{'/opt/atlassian/jira/conf/server.xml': 1, '/opt/software/jira/conf/server.xml ': 1}
+分界线
+flurry:::{}
+flurry:::{}
+分界线
+finder:::{}
+finder:::{}
+分界线
+wiki:::{}
+wiki:::{}
+分界线
+snapd:::{}
+snapd:::{}
+分界线
