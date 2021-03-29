@@ -1,0 +1,234 @@
+Android
+JVM as platform
+Firefox
+Cloud
+iPhone
+HTML 5
+Non-relational databases
+Rich Internet applications
+RDF & SPARQL
+Google as corporate platform
+Location based services
+Chrome OS
+Chrome
+IE8
+IE6 end of life
+Platform roadmaps
+ALT.NET
+android
+EC2 & S3
+Large format mobile devices
+Facebook as business platform
+Application appliances
+Google App Engine
+mobile web
+Rich Internet Applications
+Azure
+GWT
+WS-* beyond basic profi le
+Rich internet applications
+WS-* beyond basic profile
+Mobile Web
+GPGPU
+App containers
+OAuth
+RDFa
+iPad
+KVM
+Atom
+IE6 End of Life
+Heroku
+Node.js
+vFabric
+OpenStack
+RIA
+JRuby
+ATOM
+AWS
+Mobile web
+Tablet (formerly iPad)
+Offline mobile webapps (just html5)
+Ubiquitous computing
+Cloud Foundry
+WS-*
+Java portal servers
+Domain-specific PaaS
+Linux containers
+Offline mobile webapps (just HTML5)
+Private clouds
+Tablet
+Windows Phone 7
+AppHarbor
+Hybrid clouds
+OpenSocial
+Single threaded servers with asynchronous I/O
+Riak
+MongoDB
+Continuous integration in the cloud
+Couchbase
+Calatrava
+Datomic
+Vert.x
+Open source IaaS
+BigQuery
+Windows Phone
+iBeacon
+PostgreSQL for NoSQL
+Private Clouds
+ARM Server SoC
+CoAP
+DigitalOcean
+Espruino
+EventStore
+Low-cost robotics
+Mapbox
+OpenID Connect
+SPDY
+Storm
+TOTP Two-Factor Authentication
+Web Components standard
+Apache Spark
+Cloudera Impala
+Apache Kylin
+Apache Mesos
+CoreCLR and CoreFX
+CoreOS
+Deis
+H2O
+Jackrabbit Oak
+Linux security modules
+MariaDB
+Netflix OSS Full stack
+OpenAM
+SDN
+Spark Photon/Spark Electron
+Text it as a service / Rapidpro.io
+Time series databases
+U2F
+AWS Lambda
+Fastly
+HSTS
+AWS ECS
+Ceph
+Kubernetes
+Mesosphere DCOS
+Microsoft Nano Server
+Particle Photon/Particle Electron
+Presto
+Rancher
+Pivotal Cloud Foundry
+Amazon API Gateway
+Bluetooth Mesh
+Deflect
+ESP8266
+MemSQL
+Nomad
+Realm
+Sandstorm
+TensorFlow
+Unity beyond gaming
+.NET Core
+Apache Flink
+AWS Application Load Balancer
+Cassandra carefully
+Electron
+Ethereum
+HoloLens
+IndiaStack
+Nuance Mix
+OpenVR
+Tarantool
+wit.ai
+Flood IO
+Google Cloud Platform
+Keycloak
+OpenTracing
+WeChat
+Azure Service Fabric
+Cloud Spanner
+Corda
+Cosmos DB
+DialogFlow
+GKE
+Hyperledger
+Kafka Streams
+Language Server Protocol
+LoRaWAN
+MapD
+Mosquitto
+Netlify
+PlatformIO
+TensorFlow Serving
+Voice platforms
+Windows Containers
+Contentful
+EMQ
+AWS Fargate
+Azure Stack
+Godot
+Interledger
+Mongoose OS
+TICK Stack
+Web Bluetooth
+EVM beyond Ethereum
+InfluxDB
+Istio
+CloudEvents
+Cloudflare Workers
+Deno
+Hot Chocolate
+Knative
+MinIO
+Prophet
+Quorum
+SPIFFE
+Tendermint
+TimescaleDB
+Apollo Auto
+GCP Pub/Sub
+ROS
+AWS Cloud Development Kit
+Azure DevOps
+Azure Pipelines
+Crowdin
+Crux
+Delta Lake
+Fission
+FoundationDB
+GraalVM
+Hydra
+Kuma
+MicroK8s
+Oculus Quest
+ONNX
+Rootless containers
+Snowflake
+Teleport
+Anka
+Argo CD
+eBPF
+Firebase
+OpenTelemetry
+Anthos
+Apache Pulsar
+Cosmos
+Google BigQuery ML
+JupyterLab
+Marquez
+Matomo
+MeiliSearch
+Stratos
+Trillian
+Hadoop
+Rackspace Cloud
+PhoneGap/Apache Cordova
+Vumi
+Zepto.js
+Hadoop as a service
+Akka
+Backend as a service
+Mesos
+ARM Server Soc
+Rapidpro.io
+TOTP Two factor
+IOS

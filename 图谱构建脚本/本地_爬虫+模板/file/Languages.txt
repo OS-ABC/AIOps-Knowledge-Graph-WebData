@@ -1,0 +1,233 @@
+C# 4.0
+Java language end of life
+Functional languages
+Concurrent languages
+DSL’s
+Javascript as a firstclass language
+Ruby/Jruby
+Javascript as a fi rst-class language
+DSLs
+Groovy
+F#
+Clojure
+Scala
+HTML5
+HTML 5
+JRuby
+JavaScript as a first class language
+Ruby
+SASS, SCSS, and LESS
+HAML
+Javascript as a first class language
+Domain-specific languages
+Coffeescript
+Future of Java
+Logic in stored procedures
+CoffeeScript
+ClojureScript
+Functional Java
+Domain-Specific Languages
+Scratch, Alice, and Kodu
+Twitter Bootstrap
+Sinatra
+AngularJS and Knockout
+Require.js
+Dropwizard
+Jekyll
+HTML5 for offline applications
+Lua
+RubyMotion
+Gremlin
+JavaScript as a platform
+AngularJS
+Core Async
+HAL
+Hive
+Nancy
+Pester
+Play Framework 2
+Q & Bluebird
+R as Compute Platform
+Elm
+Julia
+Om
+Pointer Events
+Python 3
+Rust
+Spray/akka-http
+Spring Boot
+TypeScript
+Wolfram Language
+Dashing
+Django REST
+Ionic Framework
+Nashorn
+React.js
+Retrofit
+Ember.js
+Flight.js
+Haskell Hadoop library
+Lotus
+Reagent
+Swift
+Enlive
+SignalR
+Axon
+Frege
+HyperResource
+Material UI
+OkHttp
+React Native
+TLA+
+Traveling Ruby
+Butterknife
+Dagger
+Dapper
+Fetch
+Redux
+Robolectric
+Alamofire
+Aurelia
+Cylon.js
+Elixir
+GraphQL
+Immutable.js
+Recharts
+JSPatch
+Enzyme
+Phoenix
+Quick and Nimble
+ECMAScript 2017
+JuMP
+Physical Web
+Rapidoid
+ReSwift
+Three.js
+Vue.js
+WebRTC
+AssertJ
+Avro
+CSS Grid Layout
+CSS Modules
+Jest
+Kotlin
+Spring Cloud
+Android Architecture Components
+ARKit/ARCore
+Atlas and BeeHive
+Caffe
+Clara rules
+CSS-in-JS
+Digdag
+Druid
+ECharts
+Gobot
+Instana
+Keras
+LeakCanary
+PostCSS
+PyTorch
+single-spa
+Solidity
+TensorFlow Mobile
+Truffle
+Weex
+Apollo
+Hyperledger Composer
+OpenZeppelin
+Flutter
+Hyperapp
+Rasa
+Reactor
+RIBs
+SwiftNIO
+Tensorflow Eager Execution
+TensorFlow Lite
+troposphere
+WebAssembly
+Apache Beam
+Formik
+HiveRunner
+joi
+Ktor
+Laconia
+Puppeteer
+Resilience4j
+Room
+WebFlux
+Aeron
+Arrow
+Chaos Toolkit
+Dask
+Embark
+fastai
+http4k
+Immer
+Karate
+Micronaut
+Next.js
+Pose
+react-testing-library
+ReasonML
+Taiko
+Vapor
+jest-when
+React Hooks
+React Testing Library
+Styled components
+Tensorflow
+Fairseq
+Flair
+Gatsby.js
+KotlinTest
+NestJS
+Paged.js
+Quarkus
+SwiftUI
+Testcontainers
+Exposed
+GraphQL Inspector
+Koin
+Sarama
+Clinic.js Bubbleprof
+Deequ
+ERNIE
+MediaPipe
+Tailwind CSS
+Tamer
+Wire
+XState
+JavaScript MV* frameworks
+Require.js & NPM
+OWIN
+Go language
+Reactive Extensions across languages
+Web API
+Yeoman
+Django Rest
+netty
+python
+C++
+C
+php
+go
+ruby
+perl
+plsql
+scala
+earlang
+golang
+springmvc
+springboot
+springcloud
+dubbo
+.net
+AppleScript
+JAVA
+C/C++
+VB
+Visual Basic .NET
+Visual C#
+ASP.NET
+J#
+Objective-C

@@ -1,0 +1,879 @@
+C
+C++
+Vowpal Wabbit
+MultiBoost
+Shogun
+Java
+Mahout
+Weka
+Mallet
+JSAT
+Python
+Scikit-learn
+PyBrain
+nltk
+Theano
+Pylearn2
+MDP
+Orange
+milk
+pyml
+Numpy
+R
+Julia
+Matlab
+Spark
+MLlib
+Hurricane
+SewedBlAS
+Storm
+Heron
+Algorithms
+Generalized Linear Regression
+Gaussian Processes
+Isotonic Regression
+Support Vector Machines (SVM)
+Linear and Quadratic Discriminant Analysis
+Decision Trees
+K Nearest Neighbors
+Naive Bayes
+Neural Networks
+Ensemble Methods
+Kernel Approximation
+Adaboost
+Unsupervised Learning
+K-Means
+Gaussian Mixture Models
+Spectral Clustering
+Manifold Learning
+Hierarchical Clustering
+Affinity Propagation
+DBSCAN
+Birch
+Principal Component Analysis
+Linear Discriminant Analysis
+Locally linear embedding
+Laplacian Eigenmaps
+Isomap
+Spectral Embedding
+Feature Agglomeration
+Markov Decision Processes
+Q-Learning
+Sarsa
+A-Learning
+CNN
+Restricted Boltzmann Machines
+RNN
+Long Short Term Memory
+Cross-validation
+Grid Search
+Model Evaluation
+Model Persistence
+Validation Curves
+TensorFlow
+Caffe2/Caffe
+Theano
+Torch
+Chainer
+OpenBLAS
+CUDA
+CUDNN
+
+Bazel
+Protobuf
+Docker
+ROS
+OpenCV
+C++
+Bash
+Python
+Keras
+JavaScript
+Node.js
+React
+PaddlePaddle
+Caffe
+TensorFlow
+CPU
+GPU(CUDA)
+FPGA
+Cloud Service Platform（Apollo）
+HD Map
+OpenDrive
+Simulation
+Matlab
+Simulink
+GameEngine(UE4)
+OTA
+DuerOS
+Apollo
+Localization
+Perception
+CNN
+Low-level Vision
+Smoothing Curves
+Vehicle Kinematics
+Station-time 2D Model
+Dynamic Programming
+Quadratic Programming
+Smoothing Spline
+A*
+Bayesian
+Markov Process
+MDP
+CNN
+RNN
+Reinforcement Learning
+Sampling Based Motion Planning
+Optimization Based Motion Planning
+ComputerScience:Parallel Programming
+For Planning Focused:Basic Motion Planning Technique
+Dynamic Programming
+Computation Geometry
+Basic Control Theory
+LQR
+MPC
+PID Basic Control Theory
+Deep Learning
+CV
+CNN
+Convolutional-LSTM
+LRCN
+Computing Unit
+Perception
+LiDAR
+Radar
+Ultrasonic Radar
+Localization
+GPS
+IMU
+other perception sensors
+CAN Card
+HMI Device
+V2X Device
+Black Box
+Protocol
+Can
+Lin
+FlexRay
+AUTOSAR
+
+Spark
+Flink
+Hadoop
+Drill
+ZooKeeper
+HDFS
+tachyon
+Ignite
+Parquet
+ORC
+CarbonData
+Kudu
+HBase
+Yarn
+Mesos
+Kubernetes
+Oozie
+Azkaban
+Mahout
+Spark Mlib
+TensorFlow
+DeepLearning4J
+Torch
+Theano
+Caffe
+MxNet
+Keras
+CNTK
+Amazon Machine Learning
+DMTK
+Sentry
+Apache Eagle 
+Cloudera Manager
+Ambari
+Pig
+Kylin
+Presto
+Impala
+Hive
+Spark SQL
+DataFrame
+DataSet
+Phoenix
+ELK
+ElasticSearch
+Logstash
+Kibana
+Kafka
+RocketMQ
+ZeroMQ
+ActiveMQ
+RabbitMQ
+Storm
+JStorm
+Spark Streaming
+Fink
+Scribe
+Flume
+Sqoop
+Java
+Scala
+Python
+R
+MATLAB
+SPSS
+SAS
+R
+D3.js
+ECharts
+Excle
+Tableau
+Zeppelin
+Hue
+paxos
+raft
+gossip
+SaaS
+PaaS
+IaaS
+OpenStack
+Docker
+
+Hadoop
+Zookeeper
+Avro
+Chukwa
+Ambari
+Whirr
+Bigtop
+HCatalog
+Hue
+HBase
+Pig
+Sqoop
+Cassandra
+Hama
+Flume
+Giraph
+Oozie
+Crunch
+Hive
+Mahout
+
+JavaScript
+Node.js
+CoffeeScript
+TypeScript
+HTML
+HML5
+CSS
+CSS3
+Sass
+LESS
+Stylus
+PhotoShop
+Paint.net
+Fireworks
+GIMP
+Sketch
+jQuery
+Underscore
+Mootools
+Prototype.js
+YUI3
+Dojo
+ExtJS
+KISSY
+Backbone
+KnockoutJS
+Emberjs
+AngularJS
+Batarang
+Bootstrap
+Semantic UI
+Juice UI
+Web Atoms
+Polymer
+Dhtmlx
+qooxdoo
+React
+Brick
+Vue.js
+WebDriver
+Protractor
+Karma Runner
+Sahi
+phantomjs
+SourceLabs
+BrowserStack
+Ant
+GYP
+Grunt
+Gulp
+Yeoman
+FIS
+Mod
+Webpack
+LABjs
+SeaJS
+Require.js
+Webpack
+CSRF
+XSS
+CSP
+Same-origin policy
+ADsafe
+Caja
+Sandbox
+HTML5
+CSS3
+Zeptojs
+iScroll
+V5
+Sencha Touch
+Cordova
+Ionic
+jQuery Mobile
+W3C Mobile Web Initiative
+W3C mobileOK Checker
+Open Mobile Alliance
+React Native
+Weex
+SVG
+Canvas
+VML
+D3
+Raphaël
+Snap.svg
+DataV
+CreateJS
+KineticJS
+WebGL
+Three.JS
+dom
+ajax
+reactivex
+npm
+bower
+commonjs
+webpack
+react
+jsx
+handlebars
+jsp
+mustache
+minify
+uglify
+cleancss
+gzip
+pagespeed
+
+lighthttpd
+thrift
+cassandra
+postgresql
+openssl
+regex
+sregex
+hbase
+squid
+varnish
+Ceph
+GlusterFS
+MooseFS
+MogileFS
+FastDFS
+HDFS
+OpenAFS
+GFS
+KFS
+TFS
+RabbitMQ
+ActiveMQ
+Kafka
+MetaQ
+NSQ
+ZeroMQ
+MemcacheQ
+HTTPSQS
+Resque
+dns
+varnish
+ats
+squit
+haproxy
+lvs
+zabbix
+Scrum
+Crystal
+FDD
+Java
+Python
+Go
+JavaScript
+PHP
+Ruby
+Clojure
+Julia
+ZeroMQ
+ActiveMQ
+RabbitMQ
+AWS SQS
+AWS SWS
+AWS Lambda
+AKKA
+Thrift
+Protobuf
+CRM
+ERP
+cloudstack
+AWS RDS
+MySQL
+PostgreSQL
+DynamoDB
+MongoDB
+Cassandra
+Memcached
+Redis
+ElastiCache
+Solr
+Elasticsearch
+R
+Python
+Java
+Scala
+Clojure
+Hadoop
+HDFS
+HBase
+Hive
+Spark
+AWS Kinesis
+Storm
+Spark ML
+scikit learn
+AWS ML
+Firewall
+DDoS
+iptables
+WAF
+IDS/IPS
+VPN
+Docker
+LXC
+RunC
+Rkt
+Systemd-nspawn
+Garden
+Vagga
+VMWare Photon
+gVisor
+Pouch Container
+Kata Containers
+Sysdig Monitor
+cAdvisor
+Weave Scope
+Prometheus
+TICK-Stack
+Docker-Alertd
+Grafana
+Cockpit
+Magnum
+Boot2Docker
+MaestroNG
+Crane
+Mesos
+Marathon
+Compose
+Yarn
+Kubernetes
+Openshift Origin
+Rancher
+K3s
+Nomad
+SwarmKit
+Nebula
+Dokku
+Flynn
+Pipework
+Flannel
+Calico
+Weave
+Kubenet
+Contiv
+OpenContrail
+MacVlan
+Canal
+Romana
+Submariner
+Clair
+Dagda
+Twistlock
+OpenSCAP
+Notary
+Twistlock
+SELinux
+AppArmor
+Ceph
+Convoy
+REX-Ray
+Netshare
+OpenStorage
+Apache OpenWhisk
+KNative
+OpenFaaS
+Kubeless
+Fn
+Riff
+Nuclio
+AWS SAM
+Flogo
+Serverless Framework
+Spring Cloud Function
+Splunk
+ElasticSearch
+LogStash
+Kabana
+Fluent
+Flume
+DropWizard
+JSON
+cPickle
+protobuf
+jQuery
+D3.js
+ECharts
+GoogleAPI
+ZoomEyeMap
+AngularJS
+Bootstrap
+perl
+Nagios
+Puppet
+Zabbix
+Cacti
+SaltStack
+pssh/dsh
+Fabric
+virsh
+OpenStack
+CloudStack
+OpenNebula
+Zstack
+db2
+rocksdb
+timesten
+sqlite
+saltstack
+puppet
+ansible
+cati
+zabbix
+nigos
+TDDL
+Cobar
+OneProxy
+Atlas
+mango
+Mycat
+fabric
+slor
+Common
+ISR
+Driver
+DMA
+I2C
+OS
+uCOS
+Contiki
+TinyOS
+VXWorks
+FreeRTOS
+mbed OS
+emOS
+Salvo
+MQX
+RIOT
+rt-thread
+virsh
+OpenStack
+CloudStack
+OpenNebula
+Zstack
+cati
+zabbix
+saltstack
+puppet
+
+Sonar
+PMD
+Infer
+Android
+findbugs
+AndroidLint
+CheckStyle
+iOS
+scanbuild
+oclint
+ansible
+nigos
+Android
+Jacoco
+EMMA
+iOS
+gcov
+Appium
+
+Calabash
+
+Macaca
+
+MonkeyTalk
+
+RobotFramework
+
+Android
+
+Robotium
+Uiautomator
+Espresso
+Selendroid
+Instrumentation
+MonkeyRunner
+Cafe
+iOS
+
+WDA
+XCUITest
+KIF
+Frank
+Web
+
+selenium
+AppCrawler
+CrashMonkey4Android
+CrashMonkey4iOS
+SwiftMonkey
+JMeter
+Gatling
+nGrinder
+SystemTap
+DTrace
+Perf
+FlameGraph
+TraceView
+Instruments
+
+Frida
+Cydia Substrate
+Android
+Drozer
+apktool
+dex2jar
+XPosed
+iOS
+IDB
+otool
+lldb
+iExplorer
+libimobiledevice
+BurpSuite
+WVS
+ZAP
+Jenkins
+Travis CI
+fastlane
+Android
+mvn
+gradle
+iOS
+Cocoapods
+xcodebuild
+xcrun
+plist
+Android Emulator
+STF
+Appium Grid
+WebPageTest
+Selenium Grid
+Genymotion
+BlueStacks
+Docker
+MQC
+MTC
+Testin
+SauceLabs
+Confluence
+Wiki
+GitBook
+TesterHome
+Jira
+Redmine
+Jira
+Redmine
+BugFree
+TestLink
+Git
+GitLab
+GitHub
+JVM
+Swift
+Objective-C
+C++/C
+JavaScript
+
+Xcode
+AppCode
+Charles
+Wireshark
+Reveal
+Instruments
+Alcatraz
+VVDocument
+XVim
+FuzzyAutocompletePlugin
+KSImageNamed-Xcode
+xScope
+ImageOptim
+Dash
+Deploymate
+FauxPas
+PaintCode
+xcodebuild
+xcode-select
+nomad
+xctool
+fastlane
+Jenkins
+Travis CI
+Bot
+Bugly
+Crashlytics
+BugHD
+Google Analytics
+MTA
+Flurry
+App Annie
+TestFlight
+FIR
+
+Common Lisp
+Clojure
+Haskell
+Erlang
+Scala
+LISP
+Logo
+F#
+Prolog
+COBOL
+Visual Basic
+Objective-C
+Smalltalk
+Python
+Ruby
+Eiffel
+Java
+C++
+C#
+Delphi/Object Pascal
+Fortran
+BASIC
+Pascal
+Go
+C
+Eiffel
+C++
+D
+ECMAScript
+Python
+Java
+Ruby
+PHP
+Perl
+R
+IOS
+Swift
+AppleScript
+Objective-C
+JAVA
+HTML
+C/C++
+Adobe Air
+Android
+JAVA
+windows phone
+C#
+VB
+C++
+javascript
+.NET
+Visual Basic .NET
+Visual C#
+ASP.NET
+C#
+F#
+J#
+Java VM
+Groovy
+Clojure
+JRuby
+Ceylon
+Jython
+Scala
+Kawa
+Java
+Lua
+Perl
+JSP
+PHP
+ASP
+Shell
+sh
+csh
+ksh
+sed
+awk
+bash
+Ruby
+Tcl/Tk
+Python
+VBScript
+AppleScript
+ECMAScript
+Dart
+JScript
+JavaScript
+ActionScript
+CoffeeScript
+Ada
+Forth
+AAuto
+易语言
+ALGOL
+Intel
+AT&T
+Curl
+SGML
+XML
+SVG
+XSLT
+SSML
+SGML
+HTML
+XHTML
+DHTML
+XML Schema
+LINQ
+T-SQL
+XQuery
+PLSQL
+Visual FoxPro
+XSL
+CSS
+AutoCAD
+R
+MATLAB
+FORTRAN
+Mathematica

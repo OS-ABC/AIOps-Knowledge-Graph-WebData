@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout" layout:decorator="share/layout">
+
+<head>
+
+<title>demo</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+.pl-20{
+padding-left:20px
+}
+text{
+	cursor:pointer;
+	max-width: 25px;
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+}
+circle{
+	cursor:pointer;
+}
+#graphcontainerdiv{
+ background:#fff;
+}
+.circle_opreate{
+	display: none;
+}
+</style>
+</head>
+
+<body>
+	<div  id="app" class="mind-con">
+	<div class="cypher_toolbar clearfix">
+		<div style="width: 100px;">
+			<input type="textarea"  :rows="2" placeholder="请输入实体名称" v-model="cyphertext"></input>
+		</div>
+		<div style="padding: 7px;">
+			<button type="success" @click="cypherrun" style="margin-left: 15px;" icon="el-icon-caret-right" plain>执行</button>
+		</div>
+	</div>
+	
+     <div id="graphcontainer"  class="graphcontainer"></div>
+        <div class="svg-set-box"></div>
+	</div>
+</body>
+	<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdn.bootcss.com/vue/2.5.21/vue.js"></script>
+	<script src="https://cdn.bootcss.com/lodash.js/3.5.0/lodash.min.js"></script>
+	<script src="https://cdn.bootcss.com/d3/4.13.0/d3.js"></script>
+	<script src="./kgbuilder.js"></script>
+
+
+
+</html>
